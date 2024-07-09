@@ -1,0 +1,10 @@
+{
+    "A": "A plate of vegetables with carrots and eggplant.",
+    "B": "Some sort of dish on a plate with pasta, mushrooms and broccoli",
+    "B_A": "A plate of vegetables with carrots and eggplant, mushrooms and broccoli",
+    "A_B": "A plate of vegetables with pasta, mushrooms and broccoli",
+    "indices": [
+        18509,
+        17618
+    ]
+}

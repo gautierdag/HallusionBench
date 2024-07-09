@@ -1,0 +1,10 @@
+{
+    "A": "A tin being used to hold up a wooden 2x4.",
+    "B": "a woman places a pan of cookies into the oven",
+    "B_A": "a woman places a tin into the oven.",
+    "A_B": "A tin being used to hold up a pan of cookies into the oven.",
+    "indices": [
+        19897,
+        11642
+    ]
+}

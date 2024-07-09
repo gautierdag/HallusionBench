@@ -1,0 +1,10 @@
+{
+    "A": "A tree on the sidewalk of a road in a city area.",
+    "B": "a small child holding a soccer ball in a room",
+    "B_A": "a small child holding a soccer ball on the sidewalk of a road in a city",
+    "A_B": "A tree on a small child holding a soccer ball",
+    "indices": [
+        17364,
+        19451
+    ]
+}

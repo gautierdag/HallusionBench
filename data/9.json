@@ -1,0 +1,10 @@
+{
+    "A": "Two adult and one baby elephant walking in the forest.",
+    "B": "a man on skis stands on a snowy hill ",
+    "B_A": "Two adult and one baby elephant walking on a snowy hill",
+    "A_B": "Two adult and one baby elephant are standing on a snowy hill",
+    "indices": [
+        2207,
+        5018
+    ]
+}
