@@ -1,0 +1,1 @@
+{"A": "A woman standing in a living room holding a Wii game controller.", "B": "SOMEONE CUTTING A HOMEMADE PIZZA PIE IN HALF", "A_B": "A woman cutting a homemade pizza pie in half.", "B_A": "SOMEONE CUTTING A HOMEMADE PIZZA PIE IN A LIVING ROOM HOLDING A", "original_indices": [2536, 792], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 5"}, "test_id": 17}

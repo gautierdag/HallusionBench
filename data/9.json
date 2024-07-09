@@ -1,10 +1,1 @@
-{
-    "A": "Two adult and one baby elephant walking in the forest.",
-    "B": "a man on skis stands on a snowy hill ",
-    "B_A": "Two adult and one baby elephant walking on a snowy hill",
-    "A_B": "Two adult and one baby elephant are standing on a snowy hill",
-    "indices": [
-        2207,
-        5018
-    ]
-}
+{"A": "Two chefs in a kitchen with brown wood cabinets.", "B": "PERSON ON SKATEBOARD MAKING A JUMP UP ONTO RAMP", "A_B": "Two chefs on skateboard making a jump", "B_A": "Two chefs in a kitchen making a jump up onto ramp.", "original_indices": [10792, 12209], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 3"}, "test_id": 9}

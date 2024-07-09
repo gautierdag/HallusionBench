@@ -1,0 +1,1 @@
+{"A": "A BLACK CAT IS SITTING IN FRONT OF THE TV", "B": "A glass bowl full to the top with lemons.", "A_B": "A BLACK CAT IS full to the top with lemons", "B_A": "A glass bowl is sitting in front of the tv.", "original_indices": [6661, 19831], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 1", "B_A": " 5"}, "test_id": 36}

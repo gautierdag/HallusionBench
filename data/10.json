@@ -1,0 +1,1 @@
+{"A": "a cat laying down next to a bike tire", "B": "White house boat docked at pier with man in blue approaching", "A_B": "A cat is approaching the pier.", "B_A": "a white cat laying down on a pier with a bike tire", "original_indices": [935, 10296], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 4"}, "test_id": 10}

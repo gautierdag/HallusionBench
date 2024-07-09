@@ -1,0 +1,1 @@
+{"A": "someone is on a skateboard at a park", "B": "There are several people dancing with decorated umbrellas.", "A_B": "someone is dancing with decorated umbrellas.", "B_A": "There are several people dancing on a skateboard.", "original_indices": [3279, 6726], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 3"}, "test_id": 11}

@@ -1,0 +1,1 @@
+{"A": "A person swinging a tennis racket on a tennis court. ", "B": "The people are waiting at the train station. ", "A_B": "A person swinging a tennis racket at the train station.", "B_A": "The people are swinging a tennis racket.", "original_indices": [7868, 269], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 5"}, "test_id": 13}

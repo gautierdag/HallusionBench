@@ -1,0 +1,1 @@
+{"A": "A cat is laying on a laptop on a bed", "B": "An Air Plane is parked at the station. ", "A_B": "An Air Plane is laying on a laptop", "B_A": "An air plane is laying on a laptop on a bed", "original_indices": [11137, 5572], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 3"}, "test_id": 29}

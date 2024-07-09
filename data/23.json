@@ -1,0 +1,1 @@
+{"A": "THERE IS A CHEESE PIZZA THAT IS ON THE PLATE ON THE TABLE ", "B": "A row of parking spaces and parking meters in a downtown area", "A_B": "A cheese pizza is on a row of parking meters.", "B_A": "A row of cheese pizza on the plate", "original_indices": [14247, 14586], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 5"}, "test_id": 23}

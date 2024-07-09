@@ -1,0 +1,1 @@
+{"A": "Cars and bus on road near gas station. ", "B": "An old European cathedral on a lightly cloudy day", "A_B": "Cars and bus on road near an old European cathedral", "B_A": "An old European cathedral near gas station.", "original_indices": [7370, 1003], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 3"}, "test_id": 15}

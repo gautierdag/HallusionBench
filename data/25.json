@@ -1,0 +1,1 @@
+{"A": "Night is falling on an empty city street.", "B": "A woman hitting a tennis ball with a tennis racket", "A_B": "A woman is falling on an empty city street.", "B_A": "A woman is falling on an empty city street", "original_indices": [10915, 5277], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 3"}, "test_id": 25}

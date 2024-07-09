@@ -1,0 +1,1 @@
+{"A": "Three silver pans filled with different types of food.", "B": "A woman wearing a hat while looking at a cake.", "A_B": "Three silver pans filled with a cake.", "B_A": "A woman is looking at three silver pans.", "original_indices": [14821, 2079], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 4", "B_A": " 5"}, "test_id": 40}

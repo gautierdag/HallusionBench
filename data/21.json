@@ -1,0 +1,1 @@
+{"A": "A dog chained to a post beside a bike", "B": "an image of three men sitting on the couch watching tv", "A_B": "A dog sitting on the couch watching tv", "B_A": "A dog sitting on the couch watching tv", "original_indices": [5442, 13263], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 5"}, "test_id": 21}

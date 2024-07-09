@@ -1,0 +1,1 @@
+{"A": "A VERY LARGE ELEPHANT IS COMING OUT OF THE BUSH", "B": "A van is parked next to a fire hydrant.", "A_B": "AN ELEPHANT IS PARKED NEXT TO A FIRE HYDRANT.", "B_A": "A van is coming out of the bush", "original_indices": [17501, 11096], "plausibility_scores": {"A": " 1", "B": " 5", "A_B": " 1", "B_A": " 3"}, "test_id": 16}

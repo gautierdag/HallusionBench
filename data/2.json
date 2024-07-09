@@ -1,10 +1,1 @@
-{
-    "A": "We are looking at a closeup of a tie.",
-    "B": "a tower with a clock on top with a sky background ",
-    "B_A": "We are looking at a closeup of a clock.",
-    "A_B": "We are looking at a tower with a clock on top with a sky background ",
-    "indices": [
-        2163,
-        18816
-    ]
-}
+{"A": "An empty modern kitchen is lit at night", "B": "Four people unloading and loading from a train", "A_B": "Four people are unloading and loading from a modern kitchen.", "B_A": "Four people unloading in a modern kitchen.", "original_indices": [18907, 8344], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 5"}, "test_id": 2}

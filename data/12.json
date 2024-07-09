@@ -1,0 +1,1 @@
+{"A": "a man wearing a tie sitting next to other people", "B": "THERE IS A BIKE THAT IS PARKED ON THE STREET", "A_B": "A bike that is sitting on the street.", "B_A": "A man wearing a tie that is parked on the street", "original_indices": [3100, 17999], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 3"}, "test_id": 12}

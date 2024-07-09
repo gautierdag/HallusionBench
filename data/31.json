@@ -1,0 +1,1 @@
+{"A": "A man who is wearing a suit and tie.", "B": "An airplane is parked on an airport runway.", "A_B": "A man is parked on an airport runway.", "B_A": "A man is wearing a runway.", "original_indices": [4841, 18067], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 1"}, "test_id": 31}

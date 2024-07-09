@@ -1,0 +1,1 @@
+{"A": "A young boy using a lap top by a table", "B": "Two people wearing fine clothes, one holding an umbrella.", "A_B": "A young boy is holding an umbrella.", "B_A": "A young boy is wearing fine clothes by a table", "original_indices": [1729, 2063], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 5"}, "test_id": 18}

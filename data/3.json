@@ -1,10 +1,1 @@
-{
-    "A": "A tin being used to hold up a wooden 2x4.",
-    "B": "a woman places a pan of cookies into the oven",
-    "B_A": "a woman places a tin into the oven.",
-    "A_B": "A tin being used to hold up a pan of cookies into the oven.",
-    "indices": [
-        19897,
-        11642
-    ]
-}
+{"A": "A ADULT BROWN BEAR IS IN THE GRASS", "B": "A fire hydrants and some potted plants sitting on the side of a road where cars are driving.", "A_B": "An ADULT BROWN BEAR is in the side of a road", "B_A": "A fire hydrant is in the grass", "original_indices": [7662, 19050], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 5"}, "test_id": 3}

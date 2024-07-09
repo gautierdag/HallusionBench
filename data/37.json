@@ -1,0 +1,1 @@
+{"A": "A group of baseball players salutes each other", "B": "A BOY IS ON A SKATE BOARD IN THE COURT", "A_B": "A group of baseball players salutes each other on a skate board in the court", "B_A": "A boy is saluting each other in the court.", "original_indices": [13014, 15776], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 3"}, "test_id": 37}

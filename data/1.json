@@ -1,10 +1,1 @@
-{
-    "A": "A woman pushing a cart filled with lots of luggage.",
-    "B": "This is a living room with a gray couch and yellow chair.",
-    "B_A": "A gray couch pushing a cart filled with lots of luggage.",
-    "A_B": "A woman pushing a cart filled with a gray couch and yellow chair.",
-    "indices": [
-        14688,
-        7931
-    ]
-}
+{"A": "Modern kitchen with stainless steel appliances and hardwood flooring. ", "B": "a public transit bus on a city street", "A_B": "a public transit bus on a city street with stainless steel appliances and hardwood flooring.", "B_A": "a public transit bus with stainless steel appliances", "original_indices": [7221, 10847], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 1"}, "test_id": 1}

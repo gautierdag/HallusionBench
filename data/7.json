@@ -1,10 +1,1 @@
-{
-    "A": "A plate of vegetables with carrots and eggplant.",
-    "B": "Some sort of dish on a plate with pasta, mushrooms and broccoli",
-    "B_A": "A plate of vegetables with carrots and eggplant, mushrooms and broccoli",
-    "A_B": "A plate of vegetables with pasta, mushrooms and broccoli",
-    "indices": [
-        18509,
-        17618
-    ]
-}
+{"A": "Baseball batter ready to strike arriving ball and umpire waiting to catch if he misses.", "B": "A motorcycle in a black and white image parked on a sidewalk.", "A_B": "A motorcycle waiting to strike arriving ball", "B_A": "A motorcycle is ready to strike arriving ball.", "original_indices": [4400, 19781], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 3"}, "test_id": 7}

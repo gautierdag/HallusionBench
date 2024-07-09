@@ -1,0 +1,1 @@
+{"A": "A MAN ON HIS BICYCLE ON THE ROAD WITH SEMI TRUCKS", "B": "The parade features these people riding or even standing atop elephants", "A_B": "A MAN IS STANDING ON HIS BICYCLE WITH SEMI TRUCKS", "B_A": "A MAN ON HIS BICYCLE ATOP ELEPHANTS", "original_indices": [7262, 9376], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 4", "B_A": " 1"}, "test_id": 27}

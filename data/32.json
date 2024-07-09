@@ -1,0 +1,1 @@
+{"A": "A coffee cup on a table with a chain hanging out.", "B": "An old bell alarm clock dinging at 6:00 o'clock", "A_B": "A coffee cup dinging at 6:00 o'clock.", "B_A": "An old bell alarm clock is on a table", "original_indices": [9557, 4342], "plausibility_scores": {"A": " 3", "B": " 5", "A_B": " 3", "B_A": " 5"}, "test_id": 32}

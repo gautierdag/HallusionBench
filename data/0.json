@@ -1,10 +1,1 @@
-{
-    "A": "A tree on the sidewalk of a road in a city area.",
-    "B": "a small child holding a soccer ball in a room",
-    "B_A": "a small child holding a soccer ball on the sidewalk of a road in a city",
-    "A_B": "A tree on a small child holding a soccer ball",
-    "indices": [
-        17364,
-        19451
-    ]
-}
+{"A": "A man standing in front of an old truck.", "B": "Multiple children are getting ready to fly kites.", "A_B": "Multiple children standing in front of an old truck.", "B_A": "Multiple children are standing in front of an old truck.", "original_indices": [10208, 12431], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 5", "B_A": " 5"}, "test_id": 0}

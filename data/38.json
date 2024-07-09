@@ -1,0 +1,1 @@
+{"A": "A BOWL OF CHINESE FOOD NOODLES AND VEGGIES", "B": "The photographer used a panoramic view for this photo.", "A_B": "A bowl of chinese food using a panoramic view.", "B_A": "A bowl of noodles and veggies was photographed with a panoramic view.", "original_indices": [13070, 2540], "plausibility_scores": {"A": " 5", "B": " 5", "A_B": " 3", "B_A": " 4"}, "test_id": 38}
