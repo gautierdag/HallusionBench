@@ -1,0 +1,1234 @@
+dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
+0,Both scenes feature a purple character.,text,both,both,both
+0,Both characters have insect-like features.,text,both,both,both
+0,Both characters have antennae.,text,both,both,both
+0,Both characters have a green color in their attire.,text,one,one,both
+0,Both characters have a microphone.,text,both,one,both
+0,"Both figures are anthropomorphic, with human-like features and postures.",image,both,both,both
+0,"Both figures are seated on objects that are not typical for their species, with the left figure on a guitar and the right figure on a taco.",image,both,both,both
+0,"Both figures are wearing hats, with the left figure wearing a green hat and the right figure wearing a purple hat.",image,one,both,both
+0,"Both figures have a whimsical and playful appearance, with exaggerated features and bright colors.",image,both,both,both
+0,"Both figures are positioned in a way that suggests they are engaged in an activity, with the left figure playing a guitar and the right figure holding a fork.",image,one,both,both
+0,Both sculptures are purple in color.,both,both,both,both
+0,Both sculptures have insect-like features.,both,both,both,both
+0,Both sculptures have large eyes.,both,both,both,both
+0,Both sculptures have antennae.,both,both,both,both
+0,Both sculptures are sitting.,both,both,both,both
+0,Both sculptures are playing musical instruments.,both,one,both,both
+0,Both sculptures have a colorful appearance.,both,both,both,both
+0,Both sculptures are placed on a green surface.,both,one,both,both
+0,Both sculptures have a shadow cast on the ground.,both,both,one,both
+0,Both sculptures are in an outdoor setting.,both,one,both,both
+1,Both scenes have a body of water as the main focus.,text,both,both,both
+1,Both scenes have plants growing in the water.,text,both,both,both
+1,Both scenes have a forest in the background.,text,both,one,both
+1,Both scenes have a reflection of the forest on the water.,text,both,both,both
+1,Both scenes have a sunny day.,text,both,both,both
+1,"Both images feature a body of water, which is the central element in both scenes.",image,both,both,both
+1,"The water in both images is calm, with no visible waves or ripples.",image,one,both,one
+1,"The vegetation in both images is lush and green, indicating a healthy ecosystem.",image,both,both,both
+1,"The trees in both images have a similar shape and size, with slender trunks and a canopy of leaves.",image,both,both,both
+1,"The lighting in both images is natural and soft, suggesting that the photos were taken during the day in good weather conditions.",image,both,both,both
+1,Both scenes have a body of water that is brown in color.,both,both,both,both
+1,Both scenes have plants and trees in the background.,both,both,both,both
+1,Both scenes have a reflection of the trees on the water surface.,both,both,both,both
+1,Both scenes have a forest in the background.,both,both,one,both
+1,Both scenes have a sunny day with sunlight shining on the water and trees.,both,both,both,both
+2,Both scenes are nighttime.,text,both,both,both
+2,Both scenes feature a small amphibian (frog/toad) as the main subject.,text,both,both,both
+2,Both scenes have a blurry view.,text,one,one,both
+2,"Both scenes have a ground surface that is not completely flat (stone paving stones, curb).",text,both,both,both
+2,Both scenes have a plant or grassy area in the background.,text,both,both,both
+2,Both images feature a frog as the main subject.,image,one,both,both
+2,"The frog is positioned on a surface that is not natural for it, such as a stone or concrete.",image,both,both,both
+2,"The frog is in a relatively small space, indicating it might be in an urban or human-altered environment.",image,both,both,both
+2,"The lighting in both images is low, suggesting they were taken at night.",image,both,both,both
+2,"The frog's coloration is similar in both images, with a mix of brown and green tones.",image,both,both,both
+2,Both scenes are nighttime.,both,both,both,both
+2,Both scenes have a small amphibian (frog/toad) as the main subject.,both,both,both,both
+2,Both scenes have a concrete or stone surface that the amphibian is sitting on.,both,both,both,both
+2,Both scenes have a plant or grassy area nearby.,both,both,both,both
+2,Both scenes have a dark background with the subject being the main focus.,both,both,both,both
+3,Both scenes are set in an aquarium.,text,both,both,both
+3,Both scenes feature fish swimming in the water.,text,both,both,both
+3,Both scenes have a light source shining through the water.,text,both,one,both
+3,Both scenes have a reflection of light on the fish.,text,both,one,both
+3,Both scenes have a blue hue to the water.,text,both,both,both
+3,"Both images depict marine life in a blue environment, which is characteristic of underwater settings.",image,both,both,both
+3,The presence of fish in both images suggests a common aquatic habitat.,image,both,both,both
+3,"The clear visibility of the fish and other marine life in both images indicates a well-lit underwater environment, possibly due to sunlight or artificial lighting.",image,both,both,both
+3,"The fish in both images are swimming in groups, which is a common behavior in many fish species.",image,both,both,both
+3,"The overall composition of the images, with the fish and other marine life occupying the majority of the frame, emphasizes the importance of these creatures in the underwater ecosystem.",image,both,both,both
+3,Both scenes are underwater and have a blue hue.,both,both,both,both
+3,There is a light source above the water in both scenes.,both,both,one,both
+3,The water in both scenes is clear and has ripples.,both,both,both,both
+3,There are multiple fish in both scenes.,both,both,both,both
+3,The fish in both scenes are swimming in the water.,both,both,both,both
+4,Both scenes have a pot holding something.,text,both,both,both
+4,Both scenes have a ground floor made up of dirt and leaves.,text,both,one,both
+4,Both scenes have a wooden wall.,text,one,one,both
+4,Both scenes have a railing.,text,one,one,both
+4,Both scenes have a platform.,text,both,one,both
+4,Both images feature a knight statue.,image,one,both,both
+4,The knight statue is made of metal.,image,both,both,both
+4,The knight statue is standing on a base.,image,both,both,both
+4,The knight statue is holding a sword.,image,both,both,both
+4,The knight statue is wearing a helmet.,image,one,both,one
+4,Both scenes have a knight statue as a central figure.,both,one,both,both
+4,Both scenes have a pot with a plant in it.,both,one,one,both
+4,Both scenes have a wooden staircase.,both,one,one,both
+4,Both scenes have a wall made of wood.,both,one,one,both
+4,Both scenes have a ground floor made of dirt and leaves.,both,both,one,both
+5,Both scenes have a traffic sign.,text,both,both,both
+5,Both scenes have a pole.,text,both,both,both
+5,Both scenes have a sidewalk.,text,one,both,both
+5,Both scenes have trees in the background.,text,both,both,both
+5,Both scenes have a blue sky in the background.,text,one,one,both
+5,Both images feature a stop sign.,image,one,one,both
+5,Both images have a yield sign.,image,one,one,one
+5,Both images have a tree.,image,both,both,both
+5,Both images have a sidewalk.,image,one,both,both
+5,Both images have a grassy area.,image,one,both,both
+5,Both scenes have a sign on a pole.,both,both,both,both
+5,Both signs are located near a sidewalk.,both,both,both,both
+5,Both scenes have trees in the background.,both,both,both,both
+5,Both scenes have a blue sky in the background.,both,one,one,both
+5,Both scenes have a crosswalk in the background.,both,one,one,both
+6,Both scenes feature a heart shape.,text,both,one,both
+6,Both scenes have a gray background.,text,both,both,both
+6,Both scenes have a concrete surface.,text,both,both,both
+6,Both scenes have a darker area in the center of the heart shape.,text,both,one,both
+6,Both scenes have small objects scattered around the heart shape.,text,both,one,both
+6,Both images feature a heart shape.,image,both,one,both
+6,The heart shapes are drawn on the ground.,image,both,both,both
+6,The heart shapes are white.,image,one,both,one
+6,The heart shapes are located on the ground.,image,both,both,both
+6,The heart shapes are made of chalk.,image,one,both,one
+6,Both images feature a heart shape.,both,both,one,both
+6,Both images have a gray background.,both,both,both,both
+6,Both images have a heart shape that is the focal point.,both,both,both,both
+6,Both images have a concrete surface.,both,both,both,both
+6,Both images have a darker area in the heart shape.,both,both,one,both
+7,Both scenes feature a cat.,text,both,both,both
+7,Both cats are indoors.,text,both,both,both
+7,Both cats have a shadow on the wall behind them.,text,both,one,both
+7,Both cats have a white trim at the bottom of the wall.,text,one,one,both
+7,Both cats are in a domestic setting.,text,both,both,both
+7,The cat is the main subject in both images.,image,both,both,both
+7,The cat is black and white in both images.,image,both,both,both
+7,The cat is sitting on the floor in both images.,image,one,both,both
+7,The cat has a black tail in both images.,image,both,both,both
+7,The cat has a black spot on its back in both images.,image,one,both,one
+7,The cat is the main subject in both scenes.,both,both,both,both
+7,The cat is black and white in both scenes.,both,both,both,both
+7,The cat is indoors in both scenes.,both,both,both,both
+7,The cat is on a floor in both scenes.,both,both,both,both
+7,The cat is looking at something in both scenes.,both,both,both,both
+8,Both scenes feature a cat in a bathtub.,text,both,both,both
+8,Both cats are white with black features.,text,one,both,both
+8,Both cats are looking to the right.,text,one,one,one
+8,Both tubs are white.,text,both,both,both
+8,Both tubs have a drain cover.,text,both,one,both
+8,The cat is white with black markings.,image,both,both,both
+8,The cat is sitting in both sinks.,image,unknown,both,both
+8,The cat's ears are perked up in both images.,image,both,both,both
+8,The cat's eyes are open in both images.,image,both,both,both
+8,The cat's whiskers are visible in both images.,image,both,both,both
+8,The cat is white with black markings.,both,both,both,both
+8,The bathtub is white.,both,both,both,both
+8,The cat is in the bathtub.,both,both,both,both
+8,The cat is looking to the right.,both,one,both,one
+8,The bathtub has a drain cover.,both,both,both,both
+9,Both scenes have a natural outdoor setting.,text,both,both,both
+9,Both scenes have trees in the background.,text,both,one,both
+9,Both scenes have a significant rock formation.,text,both,both,both
+9,Both scenes have a sense of depth and perspective.,text,both,both,both
+9,"Both scenes have a sense of natural decay or aging, with the rock layers in Scene 1 and the algae growth in Scene 2.",text,both,both,both
+9,Both images feature large rocks or boulders as the main subjects.,image,both,both,both
+9,"The rocks are covered in moss, indicating a moist environment.",image,one,both,both
+9,"The presence of trees and shrubs suggests a natural, possibly forested setting.",image,both,both,both
+9,"The sky is visible in both images, indicating that the photos were taken outdoors.",image,both,both,both
+9,"The lighting in both images is natural, suggesting that the photos were taken during the day.",image,both,both,both
+9,Both scenes have a natural outdoor setting with trees and rocks.,both,both,both,both
+9,Both scenes have a staircase or steps.,both,unknown,both,both
+9,Both scenes have a large rock formation.,both,both,both,both
+9,Both scenes have a tree with a visible trunk.,both,one,one,both
+9,Both scenes have a background with more trees.,both,both,one,both
+10,Both scenes have an American flag.,text,both,both,both
+10,Both scenes have a flagpole.,text,both,both,both
+10,Both scenes have a flag attached to the flagpole.,text,both,both,both
+10,Both scenes have a state flag.,text,both,one,both
+10,Both scenes have a blue sky.,text,both,both,both
+10,Both images feature the American flag.,image,both,both,both
+10,Both images have a flagpole.,image,both,both,both
+10,Both images have a city skyline in the background.,image,one,one,both
+10,Both images have a clear blue sky.,image,both,both,both
+10,Both images have clouds in the sky.,image,one,both,both
+10,Both scenes have the American flag and the Texas flag.,both,both,both,both
+10,Both scenes have a flagpole with a gold ball at the top.,both,one,both,both
+10,Both scenes have a blue sky with white clouds.,both,both,both,both
+10,Both scenes have the flags at full mast.,both,both,both,both
+10,Both scenes have the flags billowing in the wind.,both,both,both,both
+11,Both scenes feature a blue 2016 BMW 428i M Sport car.,text,both,both,both
+11,Both scenes have the car facing to the left.,text,both,both,both
+11,Both scenes have a fence in the background.,text,both,both,both
+11,Both scenes have a goal post in the background.,text,one,one,both
+11,Both scenes have a gray sky.,text,both,both,both
+11,The car is blue in both images.,image,both,both,both
+11,The car is parked in the same location in both images.,image,one,both,both
+11,The car has the same design and features in both images.,image,both,both,both
+11,The car has the same wheel design in both images.,image,both,both,both
+11,The car has the same body shape in both images.,image,both,both,both
+11,The car is a blue 2016 BMW 428i M Sport.,both,both,both,both
+11,The car is parked facing to the left.,both,both,both,both
+11,The car has black tires and low-tinted windows.,both,both,both,both
+11,The car is parked on a wet surface.,both,both,both,both
+11,The car is parked near a fence.,both,both,both,both
+12,Both scenes involve a stone cliff or stone.,text,both,both,both
+12,There is a rough surface on the stone in both scenes.,text,both,both,both
+12,There are spots with discoloration on the stone in both scenes.,text,one,both,both
+12,There are depressions in the rock of the cliff in both scenes.,text,one,both,both
+12,The lighting and coloring indicate that both scenes are daytime.,text,both,both,both
+12,Both images show a close-up of a rock surface.,image,both,both,both
+12,The rocks have a rough texture.,image,both,both,both
+12,There are visible cracks and crevices in both rocks.,image,both,both,both
+12,"The rocks have a natural, unpolished appearance.",image,both,both,both
+12,"Both rocks have a color gradient, with darker and lighter areas.",image,both,one,both
+12,Both scenes have a rough surface texture.,both,both,both,both
+12,There are depressions in the rock of the cliff.,both,both,both,both
+12,There is a presence of dirt in both scenes.,both,both,both,both
+12,There is a variation in color in both scenes.,both,both,both,both
+12,There is a presence of moss in both scenes.,both,one,one,both
+13,Both scenes are set in a cave.,text,both,both,both
+13,Both scenes have a spotlight illuminating a specific area.,text,both,both,both
+13,Both scenes have a stone brick wall.,text,one,one,both
+13,Both scenes have a cave ceiling.,text,both,both,both
+13,Both scenes have a shadow cast across the wall.,text,both,one,both
+13,Both images depict underground cave environments.,image,both,both,both
+13,The presence of a person in each image suggests human activity or exploration.,image,unknown,both,both
+13,"The lighting in both images is artificial, with a single light source in each case.",image,both,both,both
+13,"The walls of the caves are made of stone, with visible layers and textures.",image,both,both,both
+13,"The floors of the caves are uneven and rocky, with some areas appearing smoother than others.",image,both,both,both
+13,Both scenes have a spotlight illuminating a specific area.,both,both,both,both
+13,Both scenes have a stone brick wall.,both,one,one,both
+13,Both scenes have a cave ceiling.,both,both,both,both
+13,Both scenes have a shadow cast across the stone brick wall.,both,both,one,both
+13,Both scenes have a walkway or path.,both,both,both,both
+14,Both scenes feature a parked car.,text,both,both,both
+14,Both scenes have a parking lot or similar area.,text,both,both,both
+14,Both scenes have a line or lines on the ground.,text,both,both,both
+14,Both scenes have a vehicle in the background.,text,one,one,both
+14,Both scenes have a natural element (trees) in the background.,text,both,both,both
+14,Both cars are parked in a parking lot.,image,one,both,both
+14,Both cars are sports cars.,image,both,one,both
+14,Both cars have a sunroof.,image,one,one,one
+14,Both cars have a black front bumper.,image,one,one,both
+14,Both cars have a black tire.,image,one,one,both
+14,Both cars have a black side mirror.,image,one,one,both
+14,Both cars have a black steering wheel.,image,one,one,both
+14,Both cars have a black seat belt.,image,one,one,both
+14,Both cars have a black door handle.,image,one,one,both
+14,Both cars have a black side view mirror.,image,one,one,both
+14,Both scenes feature cars parked in a parking lot.,both,both,both,both
+14,Both cars are parked next to a curb.,both,one,one,both
+14,Both scenes have a white line on the ground.,both,both,both,both
+14,Both scenes have a shadow of a tree.,both,one,one,both
+14,Both scenes have a background with trees.,both,both,both,both
+15,Both scenes have a circular table in the center.,text,one,one,both
+15,Both scenes have a glass window in the background.,text,both,both,both
+15,Both scenes have a floor that is a different color than the chairs.,text,both,both,both
+15,Both scenes have a shadow cast onto the wall.,text,one,one,both
+15,Both scenes have a light source that is shining through the window.,text,both,both,both
+15,Both images feature a large window with a view of the city and mountains.,image,one,both,both
+15,"The color scheme of the furniture is consistent in both images, with black and purple being the primary colors.",image,one,both,both
+15,"The furniture arrangement is symmetrical in both images, with two chairs and a table in the right image and a bench in the left image.",image,one,both,both
+15,"The flooring in both images is carpeted, with a similar pattern and color.",image,one,both,both
+15,"The lighting in both images is natural, coming from the large windows.",image,both,both,both
+15,Both scenes have a view of the outdoors through large windows.,both,both,both,both
+15,Both scenes have a circular table in the center.,both,one,one,both
+15,Both scenes have chairs that are facing each other.,both,one,both,both
+15,Both scenes have a carpeted floor.,both,one,one,both
+15,Both scenes have a view of trees and buildings outside the windows.,both,both,both,both
+16,Both scenes have a main object that is the focus of the image.,text,both,both,both
+16,Both scenes have a background that is not in focus.,text,both,both,both
+16,Both scenes have a shadow of the main object on the background.,text,both,one,both
+16,Both scenes have a light source coming from the left.,text,both,both,both
+16,Both scenes have a vertical element in the background.,text,both,both,both
+16,"Both images feature a bird, albeit in different contexts.",image,unknown,one,one
+16,The bird in both images is small and brown.,image,unknown,both,both
+16,"The color scheme of the images is predominantly neutral, with shades of beige, brown, and white.",image,both,both,both
+16,The bird is positioned in a way that it is the focal point of the image.,image,one,one,one
+16,The images have a serene and calm atmosphere.,image,both,both,both
+16,"Both scenes have a neutral color palette with shades of beige, cream, and off-white.",both,both,both,both
+16,"Both scenes have a textured surface, with the rattan furniture in Scene 1 and the concrete wall and shelf in Scene 2.",both,both,both,both
+16,"Both scenes have a vertical element, with the rattan back of the furniture in Scene 1 and the door in Scene 2.",both,both,both,both
+16,"Both scenes have a shadow, with the Anole's shadow on the cushion in Scene 1 and the vase's shadow on the wall in Scene 2.",both,both,both,both
+16,"Both scenes have a blurred background, with the backyard and fence in Scene",both,one,one,one
+17,Both scenes have a pile of stones or bricks.,text,both,both,both
+17,"Both scenes have a wooden element, either a pole or a fence.",text,both,both,both
+17,Both scenes have a patch of dirt or ground.,text,both,both,both
+17,Both scenes have a patch of grass.,text,both,both,both
+17,Both scenes are outdoors and well-lit.,text,both,both,both
+17,Both images show a pile of bricks and broken concrete.,image,one,both,both
+17,The pile of bricks and broken concrete is located near a wooden fence.,image,one,both,both
+17,The pile of bricks and broken concrete is situated next to a building.,image,one,both,both
+17,The pile of bricks and broken concrete is on the ground.,image,both,both,both
+17,The pile of bricks and broken concrete is in an outdoor setting.,image,both,both,both
+17,Both scenes have a pile of bricks.,both,one,one,both
+17,There is a wooden fence in both scenes.,both,one,one,both
+17,The ground in both scenes is bare dirt.,both,one,one,both
+17,There are stones in both scenes.,both,both,both,both
+17,The scenes are both outdoors.,both,both,both,both
+18,Both scenes have a grassy area.,text,both,both,both
+18,Both scenes have trees.,text,both,both,both
+18,Both scenes have a sky.,text,both,one,both
+18,Both scenes have a ladder.,text,one,one,both
+18,Both scenes have a grassy area with a tree line.,text,both,both,both
+18,Both images feature trees as the main subjects.,image,both,both,both
+18,"The trees are located in a natural setting, surrounded by grass and other vegetation.",image,both,both,both
+18,"The sky is visible in both images, indicating an outdoor environment.",image,both,both,both
+18,"The lighting in both images appears to be natural, suggesting that the photos were taken during the day.",image,both,both,both
+18,"The trees in both images have a significant presence in the frame, with one tree being more prominent in the left image and the other in the right image.",image,both,both,both
+18,Both scenes have a grassy area in the foreground.,both,both,both,both
+18,There are trees in both scenes.,both,both,both,both
+18,The sky is visible in both scenes.,both,both,both,both
+18,The grass is green in both scenes.,both,both,both,both
+18,There is a ladder in one of the scenes.,both,both,unknown,both
+19,Both scenes feature a green insect.,text,both,both,both
+19,Both insects have green legs.,text,both,one,both
+19,Both insects have green bodies.,text,both,both,both
+19,Both insects have wings.,text,both,one,both
+19,Both insects have antennae.,text,both,one,both
+19,Both images feature a grasshopper.,image,one,one,one
+19,The grasshopper is green in color.,image,both,both,both
+19,The grasshopper is outdoors.,image,one,both,one
+19,The grasshopper is on a surface that is not flat.,image,both,both,one
+19,The grasshopper is in close proximity to a human hand.,image,one,both,both
+19,Both scenes feature a green insect.,both,both,both,both
+19,The insect has a green body.,both,both,both,both
+19,The insect has wings.,both,both,both,both
+19,The insect has antennae.,both,both,both,both
+19,The insect has legs.,both,both,both,both
+19,The insect is sitting on a surface.,both,both,both,both
+19,The insect is facing to the left.,both,both,both,both
+19,The insect has a green color.,both,both,both,both
+19,The insect has a leaf-like appearance.,both,both,both,both
+19,The insect has veins on its back.,both,both,both,both
+20,Both scenes have a mosaic artwork on a white tiled wall.,text,both,both,both
+20,Both scenes have a variety of colors used in the artwork.,text,both,both,both
+20,Both scenes have a gray grout visible in between the tiles.,text,both,both,both
+20,Both scenes have a reflection on the wall.,text,one,one,both
+20,Both scenes have a ceiling above the wall.,text,both,one,both
+20,Both images feature a mosaic art piece.,image,both,both,both
+20,The mosaics are placed on a tiled wall.,image,both,both,both
+20,The mosaics are colorful and detailed.,image,both,both,both
+20,The mosaics are located in an urban setting.,image,one,both,both
+20,"The mosaics are part of a larger wall, with the number 81 visible in the right image.",image,both,both,both
+20,Both scenes have a mosaic artwork on a white tiled wall.,both,both,both,both
+20,Both artworks are made up of many small square tile pieces.,both,both,both,both
+20,Both artworks have a variety of colors.,both,both,both,both
+20,Both artworks are on a wall with a baseboard.,both,both,both,both
+20,Both artworks are above a floor that is not tiled.,both,one,one,both
+21,Both scenes have a wooden element.,text,both,both,both
+21,Both scenes have a horse element.,text,both,both,both
+21,Both scenes have a sign element.,text,both,both,both
+21,Both scenes have a nail element.,text,both,one,both
+21,Both scenes have a vertical element.,text,both,both,both
+21,Both images feature a horse as a central element.,image,both,one,both
+21,"The horse is depicted in a dynamic pose, either running or bucking.",image,both,both,both
+21,"The background of both images is a wooden wall, which adds a rustic feel.",image,both,both,both
+21,"The color scheme of both images includes red, as seen in the horse's mane and tail, and the wheel.",image,both,both,both
+21,"The wheel in both images is wooden and has a similar design, with spokes and a central hub.",image,both,both,both
+21,Both scenes have a horse as a central element.,both,both,one,both
+21,"Both scenes have a wooden element, either a wall or a wagon wheel.",both,both,both,both
+21,"Both scenes have a red element, either a sign or a relief.",both,both,both,both
+21,"Both scenes have a checkered pattern, either on a tablecloth or a sign.",both,one,one,both
+21,"Both scenes have a cowboy element, either a sign or a relief.",both,both,both,both
+22,Both scenes have two vehicles parked in a parking lot.,text,both,both,both
+22,Both scenes have the hood of one of the vehicles open.,text,both,one,both
+22,Both scenes have a building in the background.,text,both,both,both
+22,Both scenes have electrical poles in the background.,text,both,both,both
+22,Both scenes have a clear sky in the background.,text,both,both,both
+22,"Both images feature cars with their hoods open, indicating some form of maintenance or inspection.",image,both,one,both
+22,"The cars are parked in a lot, which is a common setting for car shows or meetups.",image,both,both,both
+22,The presence of multiple cars in both images suggests a gathering or event.,image,both,both,both
+22,"The clear skies in both images suggest good weather, which is often preferred for outdoor events.",image,both,both,both
+22,"The buildings in the background of both images are nondescript and do not distract from the main focus, which is the cars.",image,both,both,both
+22,Both scenes have cars with their hoods open.,both,both,one,both
+22,Both scenes have a parking lot setting.,both,both,both,both
+22,Both scenes have a clear sky.,both,both,both,both
+22,Both scenes have buildings in the background.,both,both,both,both
+22,Both scenes have a fence in the background.,both,one,both,both
+23,Both scenes have a chair on a tennis court.,text,both,both,both
+23,Both scenes have a black net in the background.,text,both,both,both
+23,Both scenes have a fence around the tennis court.,text,both,both,both
+23,Both scenes have a tennis racket on the chair.,text,both,one,both
+23,Both scenes have a person partially visible in the background.,text,one,one,one
+23,Both images feature a tennis court with a net.,image,both,both,both
+23,Both images have a tennis racket placed on a chair.,image,both,one,both
+23,The chair in both images is gray.,image,both,both,both
+23,The tennis racket in both images has a blue handle.,image,one,both,both
+23,The tennis racket in both images has a yellow and green body.,image,one,both,both
+23,Both scenes have a tennis racket on a chair.,both,both,one,both
+23,Both scenes have a black and white net.,both,both,both,both
+23,Both scenes have a green tennis court.,both,one,both,both
+23,Both scenes have a red walkway surrounding the court.,both,one,one,both
+23,Both scenes have a fence in the background.,both,both,both,both
+24,Both scenes have a trashcan as a central object.,text,both,one,both
+24,Both trashcans are broken.,text,both,one,both
+24,Both trashcans are placed on a chair.,text,one,one,both
+24,Both scenes have a grass area.,text,both,one,both
+24,Both scenes have a sidewalk or curb.,text,both,both,both
+24,Both images show two chairs and a bucket.,image,one,one,both
+24,The chairs are made of wood and have a similar design.,image,both,both,both
+24,The bucket is red and appears to be made of plastic.,image,one,both,both
+24,The chairs are placed on a paved surface.,image,both,both,both
+24,The bucket is placed on the ground next to the chairs in both images.,image,one,both,both
+24,Both scenes have a chair as the main object.,both,both,both,both
+24,Both scenes have a trashcan present.,both,both,one,both
+24,Both scenes have a grass area.,both,both,one,both
+24,Both scenes have a sidewalk or curb.,both,both,both,both
+24,Both scenes have a pole or post.,both,both,one,both
+25,Both scenes feature a train traveling on a railroad track.,text,both,both,both
+25,The railroad track is placed on a small mound made up of rocks.,text,both,one,both
+25,There is a green grass field to the right of the railroad track.,text,both,both,both
+25,A silver metal caged fence is rooted into the grass field.,text,both,both,both
+25,The sky is a light blue color with white clouds.,text,both,both,both
+25,Both images feature a train on a track.,image,both,both,both
+25,The trains are both black and have a similar design.,image,one,both,both
+25,The trains are moving on a track that is surrounded by grass.,image,both,both,both
+25,The sky in both images is blue with some clouds.,image,both,both,both
+25,The trains are located in an open area with no buildings or other structures in the immediate vicinity.,image,both,both,both
+25,Both scenes have a train traveling on a railroad track.,both,both,both,both
+25,The railroad track is placed on a small mound made up of gray colored rocks.,both,both,one,both
+25,There is a green grass field to the right of the railroad track.,both,both,both,both
+25,A silver metal caged fence is rooted into the grass field.,both,both,both,both
+25,The sky is a light blue color with white clouds.,both,both,both,both
+26,Both scenes have two cats.,text,both,both,both
+26,Both cats are a gray tabby and a white Harlequin.,text,one,one,one
+26,Both cats are facing each other.,text,both,one,both
+26,Both cats are in an indoor setting.,text,both,both,both
+26,Both cats are on a gray surface.,text,both,both,both
+26,Both cats are engaged in playful behavior.,image,both,both,both
+26,Both cats are standing on their hind legs.,image,one,one,one
+26,Both cats have their front paws raised.,image,one,one,both
+26,Both cats are facing each other.,image,both,one,both
+26,"Both cats have a similar body posture, with their bodies leaning slightly forward.",image,both,one,both
+26,"Both scenes have two cats, a gray tabby and a white Harlequin.",both,both,both,both
+26,Both cats are facing each other.,both,both,one,both
+26,The cats are in an indoor setting.,both,both,both,both
+26,"The cats are engaged in some form of interaction, whether it be fighting or playing.",both,both,both,both
+26,The background includes a gray wall with white baseboards.,both,both,both,both
+27,Both scenes have a light source.,text,both,both,both
+27,Both scenes have a ceiling.,text,both,both,both
+27,Both scenes have a wall.,text,both,both,both
+27,Both scenes have a light fixture.,text,both,both,both
+27,Both scenes have a light bulb.,text,both,both,both
+27,Both images show a light fixture mounted on a ceiling.,image,one,both,both
+27,The light fixtures are both turned on.,image,both,both,both
+27,The light bulbs in both fixtures are white.,image,both,both,both
+27,The light fixtures are both mounted on a white ceiling.,image,one,both,both
+27,The light fixtures are both designed to illuminate a room.,image,both,both,both
+27,Both scenes have a light source that is the focal point.,both,both,both,both
+27,Both scenes have a white light bulb.,both,both,one,both
+27,Both scenes have a light fixture attached to a ceiling or wall.,both,both,both,both
+27,Both scenes have a shadow cast by the light source.,both,both,one,both
+27,Both scenes have a white ceiling.,both,both,both,both
+28,Both scenes feature a white boat with black tinted windows.,text,both,both,both
+28,Both scenes have a body of water.,text,both,both,both
+28,Both scenes have trees in the background.,text,both,both,both
+28,Both scenes have a utility pole with power lines.,text,one,one,both
+28,Both scenes have a light post behind the boat.,text,one,one,both
+28,Both boats are white in color.,image,both,both,both
+28,Both boats have a sleek design with a streamlined shape.,image,both,both,both
+28,Both boats have multiple windows along the sides.,image,both,both,both
+28,Both boats have a cabin area with a roof.,image,both,both,both
+28,Both boats are docked at a marina.,image,one,both,both
+28,Both scenes feature a white yacht.,both,one,both,both
+28,Both yachts have multiple windows.,both,both,both,both
+28,Both yachts have a top floor with an umbrella.,both,one,one,both
+28,Both yachts are on a body of water.,both,both,both,both
+28,Both yachts have a utility pole with power lines nearby.,both,one,one,both
+29,Both scenes have signs with white lettering.,text,both,both,both
+29,Both scenes have a sign with an arrow.,text,both,one,one
+29,Both scenes have a sign with a warning message.,text,both,both,both
+29,Both scenes have a dirt patch in the foreground.,text,one,one,both
+29,Both scenes have a road in the background.,text,one,both,both
+29,Both signs are rectangular in shape.,image,both,both,both
+29,Both signs have a white background.,image,both,both,both
+29,Both signs have black lettering.,image,one,both,one
+29,Both signs are placed on the ground.,image,both,both,both
+29,Both signs are located outdoors.,image,both,both,both
+29,Both signs are posted in outdoor settings.,both,both,both,both
+29,Both signs have a clear message to direct traffic.,both,both,both,both
+29,Both signs have a contrasting color scheme (black and white or white and blue).,both,both,both,both
+29,Both signs are placed in a landscape bed or dirt patch.,both,one,both,both
+29,Both signs have a rectangular shape.,both,both,both,both
+30,Both scenes are outdoor settings.,text,both,both,both
+30,Both scenes have a bridge as a central element.,text,both,both,both
+30,Both scenes have trees in the background.,text,both,both,both
+30,Both scenes have buildings in the background.,text,both,both,both
+30,Both scenes have a sky above them.,text,both,both,both
+30,Both images feature a bridge with graffiti on it.,image,both,both,both
+30,"The graffiti on both images is colorful and includes the word ""BOOGER.""",image,one,both,both
+30,The background of both images includes a city skyline with tall buildings.,image,one,both,both
+30,"The sky in both images is overcast, with clouds visible.",image,both,both,both
+30,"The time of day appears to be either dawn or dusk, as indicated by the lighting in the sky.",image,both,both,both
+30,Both scenes have a bridge as the main subject.,both,both,both,both
+30,Both scenes have trees surrounding the bridge.,both,both,both,both
+30,Both scenes have buildings in the background.,both,both,both,both
+30,Both scenes have electrical wires above the bridge.,both,one,one,both
+30,Both scenes have a crane in the background.,both,one,one,one
+31,Both scenes feature a cat as the main subject.,text,both,both,both
+31,Both cats have a black tail.,text,both,one,both
+31,Both cats have a black top of the head.,text,both,one,both
+31,Both cats have a black covered eye.,text,both,one,both
+31,Both scenes have a shadow cast on the floor.,text,both,one,both
+31,The cat is the main subject in both images.,image,both,both,both
+31,The cat has a white and black color pattern.,image,both,both,both
+31,The cat is sitting in both images.,image,both,both,both
+31,The cat has a similar facial expression in both images.,image,one,both,both
+31,The cat's ears are perked up in both images.,image,one,both,both
+31,The cat is the main subject in both scenes.,both,both,both,both
+31,The cat is sitting in both scenes.,both,both,both,both
+31,The cat has a black tail in both scenes.,both,both,both,both
+31,The cat has a black top of the head in both scenes.,both,both,both,both
+31,The cat has a black covered left eye in both scenes.,both,both,both,both
+32,Both scenes feature a cumulonimbus cloud.,text,both,one,both
+32,The sun is shining on the cumulonimbus cloud in both scenes.,text,both,both,both
+32,The sky is bright blue in both scenes.,text,one,both,both
+32,The cumulonimbus cloud is the main focus of both scenes.,text,both,both,both
+32,The clouds in the rest of the image are darker in both scenes.,text,both,both,both
+32,Both images feature clouds in the sky.,image,both,both,both
+32,The clouds are white in color.,image,both,both,both
+32,The sky is blue in both images.,image,both,both,both
+32,The clouds are fluffy and puffy.,image,both,both,both
+32,The clouds are scattered across the sky.,image,both,both,both
+32,Both scenes have a cumulonimbus cloud as the main subject.,both,both,one,both
+32,The sky in both scenes is blue.,both,both,both,both
+32,The sun is shining on the clouds in both scenes.,both,both,both,both
+32,The clouds in both scenes are white.,both,both,both,both
+32,The clouds in both scenes are fluffy and puffy.,both,both,both,both
+33,Both scenes are taken during the day.,text,both,both,both
+33,The sun is a prominent feature in both scenes.,text,both,both,both
+33,The sky is a deep blue in both scenes.,text,both,both,both
+33,There are no clouds in the sky in both scenes.,text,both,both,both
+33,The sun is in the center of the image in both scenes.,text,both,both,both
+33,Both images feature a tennis racket.,image,one,one,both
+33,The tennis racket is positioned in a way that it is casting a shadow.,image,one,one,one
+33,The sun is visible in both images.,image,both,both,both
+33,The sky is clear and blue in both images.,image,both,both,both
+33,The tennis racket is the main subject in both images.,image,one,both,both
+33,Both scenes have a clear blue sky.,both,both,both,both
+33,The sun is visible in both scenes.,both,both,both,both
+33,There are trees in both scenes.,both,both,both,both
+33,The sun is shining brightly in both scenes.,both,both,both,both
+33,The sky is clear in both scenes.,both,both,both,both
+34,Both scenes have graffiti art on the walls.,text,both,both,both
+34,Both scenes have a mix of colors used in the graffiti art.,text,both,both,both
+34,Both scenes have a pattern or design on the walls.,text,both,both,both
+34,Both scenes have a mix of text and drawings in the graffiti art.,text,both,both,both
+34,"Both scenes have a sense of age and wear, with the walls and floor looking dirty and old.",text,both,both,both
+34,Both images feature graffiti art on a wall.,image,both,both,both
+34,The graffiti includes a variety of colors and styles.,image,both,both,both
+34,"The graffiti is layered, with some pieces covering others.",image,both,both,both
+34,The graffiti includes both abstract and representational elements.,image,both,both,both
+34,"The graffiti is located in an urban environment, as indicated by the presence of a pipe and a metal door.",image,both,both,both
+34,Both scenes have graffiti art on the walls.,both,both,both,both
+34,Both scenes have a mix of colors used in the graffiti art.,both,both,both,both
+34,Both scenes have a variety of shapes and patterns in the graffiti art.,both,both,both,both
+34,"Both scenes have a sense of age and wear, with the walls and floor looking dirty and old.",both,both,both,both
+34,Both scenes have some form of text or writing in the graffiti art.,both,both,both,both
+35,Both scenes feature clouds as the main subject.,text,both,both,both
+35,The sky is covered with clouds in both scenes.,text,both,both,both
+35,The sun is shining on the clouds in both scenes.,text,both,both,both
+35,The clouds are the main focus of both scenes.,text,both,both,both
+35,The clouds are the dominant element in both scenes.,text,both,both,both
+35,Both images feature a blue sky as the background.,image,one,both,both
+35,Both images have clouds that are white in color.,image,both,both,both
+35,Both images have birds flying in the sky.,image,one,one,both
+35,The clouds in both images are fluffy and puffy.,image,both,both,both
+35,The birds in both images are flying at a similar altitude.,image,one,both,both
+35,Both scenes have a significant portion of the sky covered by clouds.,both,both,both,both
+35,The clouds in both scenes are large and fluffy.,both,both,both,both
+35,The sun is shining on the clouds in both scenes.,both,both,both,both
+35,There are birds flying in both scenes.,both,one,both,both
+35,The birds are flying towards the left in both scenes.,both,one,both,both
+36,Both scenes have four posters/banners.,text,both,both,both
+36,Both scenes have a black and white image below the text on each poster/banner.,text,both,both,both
+36,Both scenes have a section of a dark gray rectangular wall extending vertically above each window/poster.,text,both,both,both
+36,Both scenes have a gray rectangular banner hanging over each section of the wall.,text,both,one,both
+36,Both scenes have black text above the illustrations on the banners/posters.,text,both,both,both
+36,Both images feature a series of windows with images displayed on them.,image,both,both,both
+36,"The images are arranged in a vertical line, with each window containing a single image.",image,both,both,both
+36,"The images are monochromatic, with varying shades of gray.",image,both,both,both
+36,"The images depict different subjects, including animals, plants, and possibly other objects.",image,both,both,both
+36,The windows are evenly spaced and aligned horizontally across the building facade.,image,both,both,both
+36,Both scenes have four vertical posters or banners.,both,both,both,both
+36,Each poster or banner has a title or name written across the top in black text.,both,both,both,both
+36,Each poster or banner has a black and white image below the title or name.,both,both,both,both
+36,"The images on the posters or banners are of different subjects, including trees, animals, and flowers.",both,both,both,both
+36,The background of the posters or banners is white in Scene 1 and gray in Scene 2.,both,both,both,both
+37,Both scenes feature a Monarch butterfly.,text,both,one,both
+37,Both scenes have a flower in the background.,text,both,both,both
+37,Both scenes have a blurry background.,text,both,both,both
+37,Both scenes have a blue sky in the background.,text,both,both,both
+37,Both scenes have a green stem and leaves.,text,both,one,both
+37,Both images feature a butterfly on a flower.,image,both,one,both
+37,The butterflies have orange wings with black spots.,image,both,both,both
+37,The flowers are both orange in color.,image,both,both,both
+37,The butterflies are perched on the flowers.,image,both,both,both
+37,The background of both images includes trees and a clear blue sky.,image,both,both,both
+37,Both images feature a Monarch butterfly.,both,both,one,both
+37,Both butterflies are resting on flowers.,both,both,one,both
+37,Both butterflies have their wings spread out.,both,one,one,both
+37,Both butterflies have orange and black coloring on their wings.,both,both,both,both
+37,Both butterflies have white spots near the ends of their wings.,both,both,one,both
+37,Both butterflies are in close-up views.,both,both,one,both
+37,Both butterflies are in natural settings.,both,both,both,both
+37,Both butterflies are in the daytime.,both,both,both,both
+37,Both butterflies are in the presence of greenery.,both,both,both,both
+37,Both butterflies are in the presence of flowers.,both,both,both,both
+38,Both scenes have a city environment.,text,both,both,both
+38,Both scenes have buildings of different designs and sizes.,text,both,both,both
+38,Both scenes have a sky filled with clouds.,text,both,both,both
+38,Both scenes have cars traveling on roads.,text,both,one,both
+38,Both scenes have a bridge in the background.,text,one,one,both
+38,Both images show a cityscape with multiple buildings of varying heights.,image,both,both,both
+38,The buildings are predominantly glass and steel structures.,image,both,both,both
+38,"The city is situated near a body of water, which is visible in both images.",image,both,both,both
+38,"The sky is a significant element in both images, with clouds present in both.",image,both,both,both
+38,"The time of day is different in each image, with one showing a bright sky and the other a sunset.",image,both,both,both
+38,Both scenes show a city environment with tall buildings.,both,both,both,both
+38,There are roads in between the buildings in both scenes.,both,both,one,both
+38,Both scenes have a bridge in the background.,both,one,one,both
+38,The sky is filled with clouds in both scenes.,both,both,both,both
+38,"The sun is visible in both scenes, with one scene showing a sunset and the other showing a bright sun.",both,both,both,both
+39,Both scenes feature palm trees.,text,both,one,both
+39,"The palm trees have long, slender stems.",text,both,both,both
+39,The palm leaves are green.,text,both,both,both
+39,The sun is shining on the palm leaves.,text,both,both,both
+39,There are dried leaves on the palm trees.,text,both,one,both
+39,"Both images feature palm trees, which are characterized by their long, slender leaves that grow from a central stem.",image,both,one,both
+39,"The leaves of the palm trees in both images are green, indicating that the photos were likely taken during a time of year when the trees are actively growing.",image,both,both,both
+39,"The trees are surrounded by other vegetation, including smaller plants and possibly other types of trees, which suggests that both images were taken in a natural, undisturbed environment.",image,both,both,both
+39,"The lighting in both images is bright and natural, with sunlight filtering through the leaves and casting shadows on the ground, indicating that the photos were taken outdoors during the day",image,both,both,both
+39,Both scenes feature palm trees with green leaves.,both,both,both,both
+39,The sunlight is shining on the leaves in both scenes.,both,both,both,both
+39,There are dried leaves on the trees in both scenes.,both,both,one,both
+39,The trees are surrounded by other vegetation in both scenes.,both,both,both,both
+39,The background of both scenes is shaded and dark.,both,both,both,both
+40,Both scenes feature a ceiling fan with five blades.,text,both,both,both
+40,Both scenes have a white light fixture in the center of the fan.,text,one,one,both
+40,Both scenes have a shadow cast by the fan blades onto the ceiling.,text,both,one,both
+40,Both scenes have a white ceiling.,text,both,both,both
+40,"Both scenes have a light source coming from the top left corner, out of view.",text,both,both,both
+40,Both images show a black ceiling fan with five blades.,image,one,both,both
+40,The fan blades are of the same design and color in both images.,image,both,both,both
+40,The light fixture is white in both images.,image,both,both,both
+40,The fan is mounted on the same type of ceiling in both images.,image,one,both,both
+40,The fan is positioned in the same location on the ceiling in both images.,image,one,both,both
+40,Both scenes have a black ceiling fan with five blades.,both,one,both,both
+40,Both scenes have a white light fixture in the center of the fan.,both,one,one,both
+40,Both scenes have a white ceiling.,both,both,both,both
+40,Both scenes have a shadow cast by the fan blades.,both,both,one,both
+40,"Both scenes have a light source, although the light is not on in the first scene.",both,both,both,both
+41,Both scenes are outdoor settings.,text,both,both,both
+41,Both scenes have a table as a central element.,text,both,both,both
+41,Both scenes have a beverage as a main focus.,text,both,both,both
+41,Both scenes have a shadow cast by the main object (bowl or glasses).,text,both,both,both
+41,Both scenes have a background that includes a concrete or cement floor.,text,both,both,both
+41,Both images feature beverages in glasses.,image,both,both,both
+41,The beverages are both brown in color.,image,both,both,both
+41,The beverages are served with a straw.,image,unknown,one,one
+41,The beverages are topped with whipped cream.,image,both,both,both
+41,"The setting is outdoors, as indicated by the presence of a bench and a wooden table.",image,both,both,both
+41,Both scenes are outdoors.,both,both,both,both
+41,Both scenes have a table with a wooden surface.,both,both,both,both
+41,Both scenes have a beverage in a glass.,both,both,both,both
+41,Both scenes have a spoon.,both,one,one,one
+41,Both scenes have a shadow cast by the bowl or glass.,both,both,one,both
+42,Both scenes have a sign with red text.,text,both,both,both
+42,Both signs are attached to a wooden structure.,text,one,both,both
+42,Both signs are placed near a path.,text,both,both,both
+42,Both scenes have a natural element (river and forest).,text,both,both,both
+42,Both scenes have a clear sky.,text,both,both,both
+42,Both signs are rectangular with a white background and red lettering.,image,both,both,both
+42,Both signs are mounted on wooden posts.,image,one,both,both
+42,Both signs are placed in outdoor settings.,image,both,both,both
+42,Both signs are warning signs.,image,both,both,both
+42,Both signs are placed near water bodies.,image,one,one,both
+42,Both scenes have a warning sign with red text.,both,both,both,both
+42,Both signs are attached to wooden mounts.,both,both,both,both
+42,Both signs are placed near a body of water.,both,one,both,both
+42,Both scenes have a natural setting with trees and rocks.,both,both,both,both
+42,Both signs are placed on a path or walkway.,both,both,both,both
+43,Both scenes are close-up shots.,text,both,both,both
+43,Both scenes have a main subject that is a character or statue.,text,both,both,both
+43,Both scenes have a background with buildings.,text,both,both,both
+43,Both scenes have a color scheme that includes red.,text,both,both,both
+43,"Both scenes have a sense of movement or action, with the pig balloon in the parade and the frog statue peeking over the building roof.",text,both,both,both
+43,Both figures are large and inflatable.,image,both,both,both
+43,Both figures are designed to be humorous and entertaining.,image,both,both,both
+43,Both figures are part of a parade or public display.,image,one,both,both
+43,"Both figures are attached to a structure, likely for stability.",image,both,both,both
+43,Both figures have a friendly and approachable appearance.,image,one,both,both
+43,Both scenes have a large inflatable or statue of an animal.,both,both,both,both
+43,"Both animals have a distinct facial feature, the pig has a white bow and the frog has a black eye patch.",both,both,both,both
+43,"Both animals have a hook, the pig has a red polka dot bow and the frog has a silver hook.",both,both,one,both
+43,Both animals have a smile on their face.,both,one,one,both
+43,"Both animals have a large body part visible, the pig has a large ear and the frog has a large head.",both,both,both,both
+44,Both scenes feature a vehicle with a design on it.,text,both,both,both
+44,"Both scenes have a reference to ""Hot Wheels"" on the vehicle.",text,both,both,both
+44,Both scenes have a vehicle with a distinctive shape.,text,both,both,both
+44,Both scenes have a vehicle with a color scheme that includes orange.,text,both,both,both
+44,Both scenes have a vehicle with a design on the back side.,text,both,both,both
+44,Both trucks are large and have oversized tires.,image,both,both,both
+44,Both trucks are designed for off-road use.,image,both,both,both
+44,Both trucks have a rugged and aggressive appearance.,image,both,both,both
+44,Both trucks are equipped with a roll cage for safety.,image,one,one,both
+44,Both trucks have a high ground clearance to navigate rough terrain.,image,both,both,both
+44,Both scenes have monster trucks as the main subject.,both,one,both,both
+44,"Both trucks have large, oversized tires.",both,both,both,both
+44,Both trucks have a design or pattern on the side of the truck.,both,both,both,both
+44,Both trucks have a name or word written on the side of the truck.,both,both,both,both
+44,Both trucks are in a setting that is related to monster truck events or shows.,both,both,both,both
+45,Both scenes feature a small rodent in a confined space.,text,both,both,both
+45,Both rodents have light pink hands and light pink ears.,text,one,one,both
+45,Both rodents have a pale beige tail covered in light brown hairs.,text,one,one,both
+45,Both rodents have a clear bottle with a royal blue cap and a silver pole to drink from.,text,one,one,both
+45,Both scenes have a white vent behind the rodent.,text,both,one,both
+45,"Both images feature animals in a controlled environment, likely a laboratory setting.",image,both,both,both
+45,"The animals are both rodents, with the left image featuring a rat and the right image featuring a mouse.",image,both,both,both
+45,Both animals are in a cage with a water bottle attached to the side.,image,both,both,both
+45,"The cages have a similar design, with a metal grate and a white wall.",image,one,both,both
+45,"The bedding material in both cages is similar, with shredded paper or wood chips.",image,both,both,both
+45,"Both animals are in a resting or sleeping position, with their eyes closed.",image,both,both,both
+45,"The lighting in both images is bright and artificial, suggesting an indoor setting.",image,both,both,both
+45,Both animals are in cages with a clear glass wall.,both,both,both,both
+45,Both cages have a water bottle with a blue cap.,both,both,one,both
+45,Both animals have light pink hands and light pink ears.,both,one,one,both
+45,Both animals have a pale beige tail.,both,one,one,both
+45,Both animals are sitting on a pile of bedding material.,both,one,both,both
+46,Both scenes feature green water.,text,both,both,both
+46,Both scenes have fish in the water.,text,both,one,both
+46,Both scenes have ripples in the water.,text,both,both,both
+46,Both scenes have reflections in the water.,text,both,both,both
+46,Both scenes have sunlight shining on the water.,text,both,one,both
+46,Both images show a body of water with a greenish hue.,image,both,both,both
+46,The water appears murky and dirty.,image,both,both,both
+46,There are reflections visible on the water's surface.,image,both,both,both
+46,"The water's surface is disturbed, with ripples and waves.",image,both,both,both
+46,"There are floating objects in the water, such as leaves and debris.",image,both,both,both
+46,Both scenes have green water.,both,both,one,both
+46,Both scenes have fish in the water.,both,both,one,both
+46,Both scenes have ripples in the water.,both,both,both,both
+46,Both scenes have reflections on the water.,both,both,both,both
+46,Both scenes have sunlight shining on the water.,both,both,one,both
+47,Both scenes feature a fire truck.,text,both,both,both
+47,Both scenes have a yellow line on the vehicle.,text,one,one,both
+47,Both scenes have a red and yellow color scheme.,text,both,both,both
+47,Both scenes have a building in the background.,text,one,one,both
+47,Both scenes have a road or sidewalk in the background.,text,both,both,both
+47,Both images feature a fire truck.,image,both,both,both
+47,The fire trucks are parked on the side of the road.,image,both,both,both
+47,The fire trucks have a red and yellow color scheme.,image,both,both,both
+47,"The fire trucks have a large, reflective surface on the back.",image,both,both,both
+47,The fire trucks have a ladder on the back.,image,one,both,one
+47,"The fire trucks have a large, black tire.",image,one,both,both
+47,The fire trucks have a red light on the back.,image,both,both,both
+47,The fire trucks have a white stripe on the side.,image,one,both,both
+47,The fire trucks have a number on the side.,image,both,both,both
+47,The fire trucks have a logo on the side.,image,both,both,both
+47,Both fire trucks are red and yellow.,both,one,one,one
+47,Both fire trucks have chrome accents.,both,one,one,both
+47,Both fire trucks have hoses on the back side.,both,both,one,both
+47,Both fire trucks have a silver bumper.,both,one,one,both
+47,Both fire trucks have a cab and a back side visible.,both,both,one,both
+48,Both scenes involve basketballs.,text,both,one,both
+48,Both scenes have a cage or goal for the basketballs.,text,both,one,both
+48,Both scenes have a net for the basketballs.,text,one,one,one
+48,Both scenes have a fence in the background.,text,one,one,both
+48,Both scenes have a sky in the background.,text,one,both,both
+48,Both images feature sports equipment.,image,both,both,both
+48,The equipment is stored in a way that suggests it is not currently in use.,image,both,both,both
+48,The equipment is located outdoors.,image,both,one,both
+48,The equipment is made of materials that are durable and weather-resistant.,image,both,both,both
+48,The equipment is used for team sports.,image,both,both,both
+48,Both scenes contain basketballs.,both,both,one,both
+48,Both scenes have a cage or enclosure for the balls.,both,both,one,both
+48,Both scenes have a fence in the background.,both,one,one,both
+48,Both scenes have a sky in the background.,both,one,both,both
+48,"Both scenes have a price tag, although the content of the price tag is different.",both,both,one,both
+49,"Both scenes have a sign that says ""POW!""",text,both,both,both
+49,Both signs are attached to a railing or shelf.,text,both,both,both
+49,Both signs have a shadow being cast on a wooden surface.,text,both,both,both
+49,Both signs have a jagged bubble around the letters.,text,both,both,both
+49,Both signs have a black outline around the letters.,text,both,one,both
+49,Both signs are designed to represent the sound of an explosion or a powerful impact.,image,both,both,both
+49,"Both signs use bold, block letters to convey their message.",image,both,both,both
+49,"Both signs are colored in primary colors (red, blue, and yellow).",image,both,both,both
+49,"Both signs have a three-dimensional effect, with the letters and background appearing to pop out from the surface.",image,both,both,both
+49,"Both signs are mounted on a wall, with the left sign attached to a wooden surface and the right sign attached to a green wall.",image,both,both,both
+49,"Both signs say ""POW"" and are onomatopoeias.",both,both,both,both
+49,Both signs have a shadow on the wooden surface behind them.,both,both,one,both
+49,Both signs have a jagged bubble around the letters.,both,both,both,both
+49,Both signs have a black outline around the letters.,both,both,one,both
+49,Both signs are attached to a wooden surface.,both,both,both,both
+50,Both scenes feature a red fire hydrant.,text,both,both,both
+50,Both scenes have a chain attached to the fire hydrant.,text,both,one,both
+50,Both scenes have a fire lane painted curb in front of the fire hydrant.,text,both,both,both
+50,Both scenes have white text on the curb in front of the fire hydrant.,text,both,one,both
+50,Both scenes have a sidewalk in the background.,text,both,both,both
+50,Both images feature a fire hydrant.,image,both,one,both
+50,Both images have a red painted curb.,image,one,both,both
+50,The red paint on the curb is the same shade in both images.,image,both,both,both
+50,The fire lane is marked with the same white lettering in both images.,image,both,both,both
+50,The grass in both images is green and appears to be well-maintained.,image,both,both,both
+50,Both scenes have a red fire hydrant with a chain on each side.,both,both,one,both
+50,Both scenes have a painted curb in front of the fire hydrant.,both,both,both,both
+50,"Both scenes have the text ""FIRE LANE NO PARKING"" on the curb.",both,both,both,both
+50,Both scenes have a sidewalk in the background.,both,both,both,both
+50,Both scenes have a building in the background.,both,one,one,both
+51,Both scenes feature a chalkboard sign with a wooden frame.,text,both,both,both
+51,Both scenes have a sun ray or natural light source.,text,both,one,both
+51,Both scenes have a handwritten message on the chalkboard.,text,both,one,both
+51,Both scenes have a background that includes a natural element (wood planks and grass/rock path).,text,both,both,both
+51,"Both scenes have a sense of casualness or informality, as indicated by the handwritten messages and the natural setting.",text,both,both,both
+51,Both signs are chalkboards.,image,both,both,both
+51,Both signs are used for food service.,image,both,both,both
+51,Both signs are outdoors.,image,one,both,both
+51,Both signs have a rustic appearance.,image,both,both,both
+51,Both signs have a handwritten style.,image,both,both,both
+51,Both signs are made of chalkboard and have a wooden frame.,both,both,both,both
+51,Both signs have a menu or list of items.,both,both,one,both
+51,Both signs have a handwritten style.,both,both,both,both
+51,Both signs have a rustic or vintage feel.,both,both,both,both
+51,Both signs have a natural outdoor setting.,both,one,both,both
+52,Both scenes have a natural setting with plants and trees.,text,both,both,both
+52,Both scenes have a man-made object that is rusted and in ruins.,text,both,one,both
+52,Both scenes have a bench that is surrounded by plants.,text,one,both,both
+52,Both scenes have a wall or barrier around the main area.,text,both,one,both
+52,Both scenes have a large metal structure in the background.,text,one,one,both
+52,"Both images feature wooden elements, with the left image having a wooden table and the right image having a wooden bench.",image,one,both,both
+52,"Both images have a natural setting, with the left image having a garden and the right image having a forest.",image,both,both,both
+52,"Both images have a rustic aesthetic, with the left image having a stone wall and the right image having a wooden bench.",image,both,both,both
+52,"Both images have a serene atmosphere, with the left image having a peaceful garden and the right image having a quiet forest.",image,both,both,both
+52,"Both images have a sense of solitude, with the left image having a single table and the right image having a single bench.",image,one,both,both
+52,Both scenes have a natural setting with trees and plants.,both,both,both,both
+52,"There is a bench in both scenes, one made of wood and the other made of metal.",both,one,one,both
+52,"Both scenes have a structure that is in ruins, one is a metal structure and the other is a wooden structure.",both,both,both,both
+52,"Both scenes have a statue, one is a human statue and the other is a stone statue.",both,both,one,both
+52,"Both scenes have a wall made of bricks, one is a low wall and the other is a high wall.",both,both,both,both
+53,Both scenes have a metal structure in the foreground.,text,both,one,both
+53,Both scenes have a section with wires and antennas.,text,both,one,both
+53,Both scenes have a section with more antennas around it.,text,one,one,both
+53,Both scenes have a city skyline in the distance.,text,one,one,both
+53,Both scenes have a light blue sky with clouds.,text,both,both,both
+53,Both images feature a tower structure.,image,both,one,both
+53,Both towers are tall and slender.,image,both,both,both
+53,Both towers are located in open areas.,image,both,one,both
+53,Both towers are situated in rural or semi-rural settings.,image,both,one,both
+53,Both towers have a vertical orientation.,image,both,both,both
+53,Both scenes have a road with a vehicle on it.,both,one,both,both
+53,"Both scenes have a tower, one is a cell tower and the other is a water tower.",both,both,both,both
+53,"Both scenes have a fence, one is a white picket fence and the other is not specified.",both,one,both,both
+53,Both scenes have a sky with clouds.,both,both,both,both
+53,"Both scenes have a building, one is a skyscraper and the other is not specified.",both,both,both,both
+54,"Both scenes have a sign with the message ""Please Do Not Enter"".",text,one,one,one
+54,Both scenes have a white background.,text,one,both,both
+54,Both scenes have a border around the main object.,text,both,one,both
+54,Both scenes have a sign with a black border.,text,both,both,both
+54,Both scenes have a sign with a message.,text,both,both,both
+54,Both images feature a window and a door.,image,both,both,both
+54,The window and door are both located on the same wall.,image,one,both,both
+54,The window and door are both framed in wood.,image,both,both,both
+54,The window and door are both white in color.,image,one,one,both
+54,The window and door are both located in a bathroom setting.,image,one,both,both
+54,"Both scenes have a sign with the message ""Please Do Not"" on it.",both,both,both,both
+54,Both signs have a black border around them.,both,both,one,both
+54,Both signs are placed on a wall.,both,both,both,both
+54,Both signs have a message related to restrictions or prohibitions.,both,both,both,both
+54,Both scenes have a white wall as a background.,both,both,both,both
+55,Both scenes have a musical theme.,text,both,one,both
+55,Both scenes have a counter.,text,one,one,both
+55,Both scenes have a mirror.,text,one,one,both
+55,Both scenes have pictures on the wall.,text,both,both,both
+55,Both scenes have a sign with white text.,text,one,both,both
+55,Both images show a bar setting with a counter and a variety of bottles on display.,image,one,both,both
+55,The presence of a piano in both images suggests a musical element to the establishment.,image,both,both,both
+55,"The use of warm lighting, such as red lights and candles, creates a cozy and inviting atmosphere in both images.",image,one,both,both
+55,"The decor includes framed pictures and artwork, contributing to the establishment's character and ambiance.",image,both,both,both
+55,"The overall layout of the bar, with seating and a counter, is consistent in both images.",image,one,both,both
+55,Both scenes have a bar setting.,both,one,both,both
+55,Both scenes have a counter.,both,one,one,both
+55,Both scenes have a mirror.,both,one,one,both
+55,Both scenes have a wall with pictures.,both,both,both,both
+55,Both scenes have a light source.,both,both,both,both
+56,Both scenes have a clear blue sky in the background.,text,both,both,both
+56,Both scenes have a light source that is barely visible.,text,both,one,both
+56,Both scenes have a dark green pole or frame.,text,one,one,both
+56,Both scenes have a bush or shrubbery in the foreground.,text,both,one,both
+56,Both scenes have a building or structure in the background.,text,both,one,both
+56,Both lamps are mounted on poles.,image,both,both,both
+56,Both lamps have a glass enclosure.,image,one,one,both
+56,Both lamps are designed to illuminate the surrounding area.,image,both,both,both
+56,"Both lamps have a similar shape, with a rounded top and a flat base.",image,both,both,both
+56,Both lamps are situated outdoors.,image,both,both,both
+56,Both scenes feature a streetlight.,both,both,one,both
+56,Both streetlights have a dark green pole.,both,one,one,both
+56,Both streetlights have a lantern at the top.,both,both,one,both
+56,Both lanterns have glass sides.,both,one,one,both
+56,Both lanterns have metal frames at the corners.,both,one,one,both
+56,Both lanterns have a dark green metal top.,both,one,one,both
+56,Both scenes have a clear blue sky in the background.,both,both,both,both
+56,Both scenes have a bush or shrubbery in the foreground.,both,both,one,both
+56,Both scenes have a building in the background.,both,one,one,both
+56,Both scenes have a light source in the lantern.,both,both,both,both
+57,Both scenes have a table with a black cloth over it.,text,both,both,both
+57,Both scenes have medals on the table.,text,both,both,both
+57,Both scenes have ribbons on the medals.,text,both,both,both
+57,Both scenes have flags in the background.,text,both,one,both
+57,Both scenes have a binder in the background.,text,one,one,both
+57,All items are related to awards or recognition.,image,both,both,both
+57,The items are displayed on a table.,image,both,both,both
+57,The table is covered with a black cloth.,image,both,both,both
+57,The items are organized in a symmetrical manner.,image,one,both,both
+57,The items are placed in a way that suggests they are part of a ceremony or event.,image,both,both,both
+57,Both scenes have medals on a table with ribbons.,both,both,both,both
+57,The medals in both scenes are gold.,both,both,both,both
+57,The ribbons in both scenes are different colors.,both,both,both,both
+57,The tablecloth in both scenes is black.,both,both,both,both
+57,"The year ""2022"" is visible on the medals in both scenes.",both,both,both,both
+58,Both scenes have a blue element in them.,text,both,both,both
+58,Both scenes have a green element in them.,text,both,both,both
+58,Both scenes have a painted element in them.,text,both,both,both
+58,Both scenes have a square element in them.,text,both,one,both
+58,Both scenes have a line element in them.,text,both,both,both
+58,Both images feature a blue color prominently.,image,both,both,both
+58,Both images have a white outline around the central figure.,image,one,one,both
+58,Both images have a white background.,image,one,one,both
+58,Both images have a central figure that is a letter or symbol.,image,both,both,both
+58,Both images have a red color used in the central figure.,image,one,one,both
+58,Both scenes have a blue color theme.,both,both,both,both
+58,Both have a green background.,both,both,both,both
+58,Both have a blue tarp or paint.,both,both,both,both
+58,"Both have a large letter ""W"" on them.",both,one,both,both
+58,Both have a red and white bird on them.,both,one,one,both
+59,Both scenes have a natural setting with grass and trees.,text,both,both,both
+59,Both scenes have a man-made object (wagon and plow) as the main focus.,text,both,both,both
+59,Both scenes have a road or path in the background.,text,one,one,both
+59,Both scenes have a sky in the background.,text,both,both,both
+59,Both scenes have shadows cast by the main object.,text,both,one,both
+59,"Both images feature a wagon or cart, which is a common element in rural settings.",image,both,both,both
+59,"The wagons are positioned in open fields, suggesting a connection to agriculture or farming.",image,both,both,both
+59,"The presence of trees and grass indicates a natural, outdoor environment.",image,both,both,both
+59,"Both images have a clear blue sky, which is typical of sunny, rural landscapes.",image,both,both,both
+59,"The shadows cast by the wagons and trees suggest that the photos were taken during the same time of day, possibly in the late afternoon.",image,both,both,both
+59,Both scenes are set in a rural area with grass and trees.,both,both,both,both
+59,Both scenes have a metal object as the main focus.,both,both,both,both
+59,Both scenes have a shadow cast by the object.,both,both,one,both
+59,Both scenes have a clear blue sky in the background.,both,one,both,both
+59,Both scenes have a wooden pole in the grass.,both,one,one,both
+60,Both scenes have a wall as a prominent feature.,text,both,both,both
+60,Both scenes have text painted on the wall.,text,both,both,both
+60,Both scenes have a layer of color on the wall.,text,both,one,both
+60,Both scenes have a darker shade of the color on the wall.,text,both,one,both
+60,Both scenes have a lighter shade of the color on the wall.,text,both,one,both
+60,"Both images feature the word ""ROAD"" prominently displayed.",image,one,both,both
+60,"The letters are in a similar font style, with a bold and blocky appearance.",image,both,both,both
+60,The color of the letters is black in both images.,image,both,both,both
+60,The background color of the letters is white in both images.,image,both,both,both
+60,"The letters are arranged in a similar manner, with ""HARDWOOD"" on the left and ""ROAD"" on the right.",image,both,both,both
+60,Both scenes have a wall with text painted on it.,both,both,both,both
+60,Both scenes have a black drop shadow on the text.,both,one,one,both
+60,Both scenes have a blue sky in the background.,both,one,both,both
+60,Both scenes have a black electrical line visible.,both,one,one,both
+60,Both scenes have a chimney pipe visible on the roof.,both,one,one,both
+61,Both scenes feature a butterfly or butterfly-related imagery.,text,both,both,both
+61,Both scenes have a close-up view of the subject.,text,both,both,both
+61,Both scenes have a focus on the details of the subject.,text,both,both,both
+61,Both scenes have a naturalistic color palette.,text,both,both,both
+61,Both scenes have a sense of delicacy and fragility.,text,both,both,both
+61,Both images feature a butterfly.,image,one,one,both
+61,The butterfly in both images is colorful.,image,both,both,both
+61,The butterfly in both images has a similar shape and pattern.,image,both,both,both
+61,Both images are related to the life cycle of a butterfly.,image,both,both,both
+61,Both images are displayed on a wooden surface.,image,one,both,both
+61,"Both scenes feature a butterfly, one as a tattoo and the other as a caterpillar.",both,both,both,both
+61,Both butterflies have black antennae.,both,both,one,both
+61,"Both butterflies have wings, although the tattooed butterfly has two small wings on the sides and two large wings on the top, while the caterpillar has no wings.",both,both,both,both
+61,"Both butterflies have colorful markings, with the tattooed butterfly having blue, green, and purple markings, and the caterpillar having yellow, black, and white stripes.",both,both,both,both
+61,"Both butterflies are on a surface, with the tattooed butterfly on a wooden surface and the caterpillar on a person's hand.",both,both,both,both
+62,Both scenes involve chalk writing on a concrete surface.,text,both,both,both
+62,"The letters are written in a similar manner, with two letters next to each other.",text,both,both,both
+62,"The letters are written in a similar color, with one scene using purple chalk and the other using pale blue chalk.",text,both,both,both
+62,Both scenes have debris on the concrete surface.,text,one,one,both
+62,Both scenes have faded chalk markings on the concrete surface.,text,one,both,both
+62,Both images feature chalk writing on a concrete surface.,image,both,both,both
+62,The chalk writing is in a cursive style.,image,one,both,both
+62,The letters are written in a similar size and spacing.,image,both,both,both
+62,The chalk is purple in color.,image,one,both,one
+62,"The writing is done in a single line, without any breaks or interruptions.",image,both,both,both
+62,Both scenes involve chalk writing on a cement surface.,both,both,both,both
+62,"The letters are written in a casual, hand-written style.",both,both,both,both
+62,"The letters are written in a sequence, with each letter next to the other.",both,both,both,both
+62,The letters are written in a way that they can be read from left to right.,both,both,both,both
+62,The letters are written in a way that they can be read from top to bottom.,both,both,both,both
+63,Both scenes have an animal as the main subject.,text,both,both,both
+63,Both animals have been labeled with text to identify their body parts.,text,one,one,both
+63,Both animals have a worn-out appearance.,text,both,both,both
+63,"Both animals are attached to a structure (pig to a wall, goat to a fence).",text,one,both,both
+63,Both animals have a rust-colored tail.,text,one,both,both
+63,Both images feature a pig and a goat.,image,one,one,both
+63,"The pig and goat are both depicted in a stylized, cut-out form.",image,both,both,both
+63,"The pig is shown with a detailed cut-out of its body parts, while the goat is shown with a more simplified cut-out.",image,both,both,both
+63,Both animals are mounted on a wall.,image,one,both,one
+63,"The pig is mounted on a white wall, while the goat is mounted on a wooden wall.",image,one,both,both
+63,The pig is mounted higher on the wall than the goat.,image,one,both,both
+63,"The pig is depicted in a more realistic color scheme, while the goat is depicted in a more muted, rusty color scheme",image,both,both,both
+63,Both scenes have a rustic and weathered look to them.,both,both,both,both
+63,Both the pig and the goat are made of metal and have been weathered by the elements.,both,one,both,both
+63,"Both animals are attached to a wall or fence, with the pig being attached to a wall and the goat leaning against a fence.",both,both,both,both
+63,Both animals have been labeled with text to identify their body parts.,both,one,one,both
+63,"Both animals have a unique feature that is highlighted, with the pig having text all over it and the goat having a single horn and a brown goatee.",both,both,both,both
+64,Both scenes have a textured surface.,text,both,both,both
+64,Both scenes have markings on the surface.,text,both,both,both
+64,Both scenes have a vertical element.,text,both,one,both
+64,Both scenes have a crack in the surface.,text,one,one,both
+64,Both scenes have a sense of age or wear.,text,both,both,both
+64,Both images feature a wooden surface.,image,one,both,both
+64,Both images have white markings on the wood.,image,unknown,one,both
+64,The white markings are made with chalk.,image,both,both,both
+64,"The markings are written in a casual, hand-drawn style.",image,both,both,both
+64,"The markings include letters and symbols, such as hearts and the letter ""S"".",image,both,both,both
+64,Both scenes have white text or markings on a surface.,both,both,both,both
+64,Both scenes have a rough texture to the surface.,both,both,both,both
+64,Both scenes have some form of writing or engraving on the surface.,both,both,both,both
+64,Both scenes have a sense of age or wear to the surface.,both,both,both,both
+64,Both scenes have a sense of being outdoors or exposed to the elements.,both,both,both,both
+65,Both scenes are close-up shots.,text,both,both,both
+65,Both scenes have a wooden surface.,text,one,both,both
+65,Both scenes have a dark background.,text,one,both,both
+65,Both scenes have a central object with a distinct shape.,text,both,both,both
+65,Both scenes have a text or symbol on the central object.,text,both,both,both
+65,Both images feature a toilet paper roll.,image,one,one,both
+65,The toilet paper in both images is white.,image,one,both,both
+65,The toilet paper is placed on a holder.,image,both,both,both
+65,The toilet paper is in a horizontal position.,image,both,both,both
+65,"The word ""Lucky"" is present in both images, although it is only visible in the left image.",image,one,one,one
+65,"Both scenes have a white element, either the fabric or the toilet paper.",both,both,both,both
+65,"Both have a black element, either the text on the fabric or the tissue holder.",both,both,both,both
+65,"Both have a wooden element, either the fabric or the tissue holder.",both,both,both,both
+65,"Both have a gray element, either the text on the fabric or the wall.",both,both,both,both
+65,"Both have a heart shape, either the text on the fabric or the toilet paper.",both,one,both,both
+66,Both scenes have a book-related theme.,text,both,both,both
+66,Both scenes have a sign or display.,text,both,both,both
+66,"Both scenes have a decorative element (gold stars in Scene 1, blow up pictures in Scene 2).",text,both,both,both
+66,"Both scenes have a background element (royal blue poster board in Scene 1, white cement bricks in Scene 2).",text,both,both,both
+66,"Both scenes have a contrasting color scheme (charcoal gray and gold in Scene 1, dark brown and white in Scene 2).",text,both,both,both
+66,Both images feature a bookshelf with books.,image,one,both,both
+66,The bookshelves are wooden and have a similar design.,image,one,both,both
+66,The books on the shelves are arranged in a similar manner.,image,one,both,both
+66,Both images have a sign or label on the bookshelf.,image,both,both,both
+66,The signs are placed in a similar position on the bookshelf.,image,one,both,both
+66,Both scenes have a book-related theme.,both,both,both,both
+66,Both scenes have a sign or a board with a message related to books.,both,both,both,both
+66,Both scenes have a decorative element related to stars.,both,both,both,both
+66,Both scenes have a bookshelf or a representation of a bookshelf.,both,both,both,both
+66,Both scenes have a wall as a background.,both,both,both,both
+67,Both scenes feature a blue painted wooden surface.,text,both,both,both
+67,Both scenes have pink painted text.,text,both,one,both
+67,Both scenes have a hand-drawn element.,text,both,both,both
+67,Both scenes have a cartoonish element.,text,both,both,both
+67,Both scenes have a wooden platform or table top.,text,both,both,both
+67,Both images feature a blue wooden surface.,image,both,both,both
+67,Both images have a drawing of a face on the surface.,image,both,both,both
+67,Both images have a handwritten message.,image,both,both,both
+67,The handwriting in both images is in the same color as the drawings.,image,one,both,both
+67,"The drawings and handwriting are both in a similar style, suggesting they were done by the same person.",image,both,both,both
+67,Both scenes feature a blue wooden surface.,both,both,both,both
+67,Both scenes have pink text and drawings.,both,both,both,both
+67,Both scenes have a hand-drawn element.,both,both,both,both
+67,Both scenes have a playful or whimsical tone.,both,both,both,both
+67,"Both scenes have a sense of community or invitation, as indicated by the text in Scene 1 and the cartoonish nature of the drawing in Scene 2.",both,both,both,both
+68,Both scenes have a close-up view of a face.,text,both,both,both
+68,Both scenes have a brown background.,text,both,both,both
+68,Both scenes have a decorative element.,text,both,both,both
+68,Both scenes have a text element.,text,both,one,both
+68,Both scenes have a light source illuminating the view.,text,both,both,both
+68,Both images feature a man's face.,image,one,one,both
+68,Both images have a yellow color scheme.,image,one,both,both
+68,Both images have a decorative border.,image,one,both,both
+68,Both images have a name associated with them.,image,one,both,both
+68,Both images are attached to a wall.,image,both,both,both
+68,Both scenes have a human face as the central focus.,both,both,both,both
+68,"Both scenes have a decorative element, with the first scene having a yellow border design and the second scene having a golden statue.",both,both,both,both
+68,"Both scenes have a name or title associated with the face, with the first scene having the word ""Gent"" and the second scene having the number ""07"".",both,both,both,both
+68,"Both scenes have a background that is not the main focus, with the first scene having a brown wall and the second scene having a brown marble wall.",both,both,both,both
+68,Both scenes have a light source illuminating the view from the left.,both,both,both,both
+69,Both scenes have a nighttime setting.,text,both,both,both
+69,Both scenes have a large structure (apple sculpture and building) as the main focus.,text,both,both,both
+69,Both scenes have red and blue lights.,text,both,both,both
+69,Both scenes have a traffic light pole with a green street sign.,text,one,one,both
+69,Both scenes have a vehicle (ambulance and minivan) with its lights on.,text,both,both,both
+69,"Both images feature a large, eye-catching object in the foreground.",image,both,one,both
+69,"Both images have a vehicle with its lights on, indicating it is either moving or parked.",image,both,one,both
+69,Both images have traffic lights visible in the scene.,image,one,both,both
+69,Both images have a building in the background.,image,both,one,both
+69,"Both images are taken at night, as indicated by the dark sky and artificial lighting.",image,both,both,both
+69,Both scenes are set at night.,both,both,both,both
+69,Both scenes have traffic lights.,both,one,both,both
+69,Both scenes have a vehicle with red and blue lights.,both,both,one,both
+69,Both scenes have a building in the background.,both,both,one,both
+69,Both scenes have a road or street in the foreground.,both,both,both,both
+70,Both scenes have a neon sign as a main feature.,text,both,both,both
+70,Both scenes have a red color theme.,text,both,one,both
+70,Both scenes have string lights as a secondary light source.,text,both,one,both
+70,Both scenes have a metal pole or beam as a structural element.,text,both,one,both
+70,Both scenes have a dark background with the neon sign being the main source of light.,text,both,both,both
+70,"Both signs are neon and have a bright, eye-catching appearance.",image,both,both,both
+70,Both signs are designed to attract attention and are likely used for advertising purposes.,image,both,both,both
+70,"Both signs are suspended from the ceiling, indicating they are part of a larger structure or building.",image,both,both,both
+70,"Both signs have a bold, capitalized font, which is common in advertising to ensure visibility and readability.",image,both,both,both
+70,"Both signs are illuminated, suggesting they are meant to be visible at night or in low-light conditions.",image,both,both,both
+70,Both signs are neon and have a bright white lettering.,both,one,one,both
+70,Both signs are suspended in the air.,both,both,both,both
+70,Both signs have a red background.,both,both,one,both
+70,Both signs have a horizontal metal beam above them.,both,one,one,both
+70,Both signs have string lights behind them.,both,one,one,both
+71,Both scenes have a central figure or object that is the focus of the scene.,text,both,both,both
+71,Both scenes have a sense of fantasy or magic.,text,both,both,both
+71,Both scenes have a sense of movement or action.,text,one,one,both
+71,Both scenes have a sense of color and design.,text,both,both,both
+71,Both scenes have a sense of light and shadow.,text,both,both,both
+71,Both images feature a prominent display of toys.,image,one,both,both
+71,The toy displays are designed to attract attention and are likely intended for children.,image,both,both,both
+71,The use of bright colors and lights is a common theme in both images.,image,both,both,both
+71,The displays are set up in a way that suggests they are part of a larger event or attraction.,image,both,both,both
+71,The presence of a toy display suggests a festive or celebratory atmosphere.,image,both,both,both
+71,Both scenes have a focus on a magical or mystical theme.,both,both,both,both
+71,Both scenes have a sign or text that is central to the scene.,both,both,both,both
+71,Both scenes have a red and white color scheme.,both,both,both,both
+71,Both scenes have a sense of whimsy or fantasy.,both,both,both,both
+71,"Both scenes have a sense of being part of a larger event or setting, such as a carnival or a themed attraction.",both,both,both,both
+72,Both scenes have a backdrop that is white.,text,both,both,both
+72,Both scenes have text embossed on the backdrop.,text,one,one,both
+72,Both scenes have a depiction of a tree.,text,one,one,both
+72,Both scenes have a depiction of buildings.,text,one,one,both
+72,Both scenes have a depiction of a sky.,text,one,one,both
+72,"Both images have a prominent bird figure, which is the main subject of the right image and a part of the left image.",image,both,both,both
+72,"The bird figure in both images is depicted in a similar style, with a focus on the wings and tail feathers.",image,one,both,both
+72,"The left image has a cartoonish, stylized appearance, while the right image has a more realistic and detailed depiction of the bird.",image,both,both,both
+72,"Both images feature a background that is not the main focus, with the left image having a cityscape and the right image having a stone wall.",image,both,both,both
+72,"The text ""Babbble"" appears in both images, although it",image,one,both,unknown
+72,Both scenes have a backdrop with a white base color.,both,both,both,both
+72,Both have a prominent text in the middle of the scene.,both,both,both,both
+72,"Both have a depiction of a bird, with the eagle in Scene 2 and the bird in Scene 1.",both,both,both,both
+72,"Both have a depiction of a tree, with the tree in Scene 1 and the tree in Scene 2.",both,both,one,both
+72,"Both have a depiction of buildings, with the buildings in Scene 1 and the buildings in Scene 2.",both,both,one,both
+73,Both scenes are close-up shots of light switches.,text,both,both,both
+73,Both scenes have a label on the light switch.,text,both,one,both
+73,Both scenes have a wooden board on top of the wall.,text,one,one,both
+73,Both scenes have a light switch that is mounted on a wall.,text,both,both,both
+73,Both scenes have a light switch that is screwed into a board.,text,both,both,both
+73,Both switches are white and have a similar design.,image,one,both,both
+73,Both switches have a label on them.,image,both,one,both
+73,Both switches are mounted on a wall.,image,both,both,both
+73,Both switches have a light indicator.,image,one,one,both
+73,Both switches have a power cord coming out of them.,image,unknown,one,one
+73,Both light switches are white.,both,one,both,both
+73,Both light switches are mounted on a wall.,both,both,both,both
+73,Both light switches have labels on them.,both,both,one,both
+73,Both light switches have a screw in the center.,both,both,one,one
+73,Both light switches have a reflection of windows and trees on them.,both,one,one,one
+74,Both scenes have a wooden element.,text,both,both,both
+74,Both scenes have a color that is associated with nature (blue in Scene 1 and brown in Scene 2).,text,both,both,both
+74,Both scenes have a small object (coffee cup in Scene 1 and puzzle piece in Scene 2).,text,both,both,both
+74,Both scenes have a color that is associated with nature (blue in Scene 1 and brown in Scene 2).,text,both,both,both
+74,Both scenes have a color that is associated with nature (blue in Scene 1 and brown in Scene 2).,text,both,both,both
+74,Both images feature animals: the capybara in the painting and the bird on the puzzle piece.,image,both,both,both
+74,"Both animals are depicted in a relaxed or leisurely pose: the capybara is sitting and drinking coffee, while the bird is sitting on the puzzle piece.",image,both,both,both
+74,"Both images have a whimsical or humorous element: the capybara drinking coffee is a playful anthropomorphism, and the bird on the puzzle piece adds a quirky twist to the image.",image,both,both,both
+74,"Both images are displayed on a wooden surface: the painting is on a wooden board, and the puzzle piece is on a wooden table.",image,both,both,both
+74,Both,image,one,both,both
+74,Both scenes have a wooden background.,both,one,both,both
+74,Both scenes have a green object.,both,one,one,both
+74,Both scenes have a hole.,both,one,one,both
+74,Both scenes have a piece of paper.,both,unknown,one,both
+74,Both scenes have a white object.,both,one,one,both
+75,Both scenes have a painting of a child.,text,both,one,both
+75,Both scenes have a painting of an animal.,text,both,one,both
+75,Both scenes have a painting of a butterfly.,text,one,one,one
+75,Both scenes have a painting of a frog.,text,one,one,both
+75,Both scenes have a painting of a soccer ball.,text,one,one,both
+75,Both images feature a child as the main subject.,image,both,one,both
+75,The child in both images is depicted with a smile.,image,both,both,both
+75,The child in both images is wearing a yellow shirt.,image,one,both,both
+75,The child in both images is wearing red shorts.,image,one,both,both
+75,The child in both images is standing on a wooden surface.,image,one,both,both
+75,Both scenes have a painting of a smiling character.,both,both,both,both
+75,Both scenes have a painting of a frog.,both,one,one,both
+75,Both scenes have a painting of a soccer ball.,both,one,one,both
+75,Both scenes have a green element in the background.,both,both,one,both
+75,Both scenes have a wooden element in the background.,both,both,both,both
+76,Both scenes have a dark sky.,text,both,both,both
+76,Both scenes have a reflection of trees.,text,one,both,both
+76,Both scenes have a logo on the object in the scene.,text,both,one,both
+76,Both scenes have a utility pole with wires.,text,one,one,both
+76,Both scenes have a car in the scene.,text,unknown,one,one
+76,Both images have a strong presence of the color red.,image,one,both,both
+76,The statue and the car both have a reflective surface.,image,both,both,both
+76,The statue and the car both have a logo or emblem.,image,both,both,both
+76,The statue and the car both have a sense of luxury or high status.,image,both,both,both
+76,"The statue and the car both have a sense of motion or action, with the statue holding a sword and the car being in motion.",image,one,both,both
+76,Both scenes have a statue and a car.,both,one,one,both
+76,Both scenes have a blue sky.,both,one,both,both
+76,Both scenes have trees.,both,both,one,both
+76,Both scenes have a statue with a hat.,both,one,one,both
+76,Both scenes have a statue with a sword.,both,one,one,one
+77,Both scenes have a wall as a central element.,text,both,both,both
+77,"Both scenes have a specific color scheme: red and white in Scene 1, and red and white in Scene 2.",text,both,both,both
+77,"Both scenes have a decorative element: the red letters in Scene 1, and the neon sign in Scene 2.",text,both,both,both
+77,"Both scenes have a light source: the light shining on the wall in Scene 1, and the sunlight in Scene 2.",text,both,both,both
+77,"Both scenes have a partial view of a floor: the gray concrete floor in Scene 1, and the tiled floor in Scene 2.",text,both,both,both
+77,"Both images feature the word ""AVOCADO"" in a similar font style.",image,one,both,both
+77,"Both images have a red border or outline around the word ""AVOCADO"".",image,one,one,one
+77,Both images have a white background.,image,one,both,both
+77,Both images have a red and white color scheme.,image,both,both,both
+77,"Both images have a decorative element, with the left image having a green leaf and the right image having a red and white striped border.",image,one,both,both
+77,Both scenes have a tiled wall.,both,one,both,both
+77,Both scenes have a red color scheme.,both,both,both,both
+77,Both scenes have a white background.,both,one,both,both
+77,Both scenes have a light source.,both,both,one,both
+77,Both scenes have a sign or label.,both,both,both,both
+78,Both scenes have a nighttime setting.,text,both,both,both
+78,Both scenes have a reflection of a building on a window pane.,text,one,one,both
+78,Both scenes have a traffic light.,text,one,one,both
+78,Both scenes have a street sign.,text,both,one,both
+78,Both scenes have a blurred view of a street sign.,text,one,one,both
+78,Both images feature a red light.,image,both,both,both
+78,Both images have a neon sign.,image,one,one,one
+78,Both images have a traffic light.,image,one,one,both
+78,Both images have a building in the background.,image,one,one,both
+78,Both images have a street sign.,image,both,one,both
+78,Both scenes have a nighttime setting.,both,both,both,both
+78,Both scenes have traffic lights.,both,one,both,both
+78,Both scenes have a sign with an arrow.,both,both,one,both
+78,Both scenes have a sign with a bike icon.,both,one,one,both
+78,Both scenes have a sign with a train icon.,both,one,one,both
+79,Both scenes feature a close-up view of a hand holding playing cards.,text,both,both,both
+79,The playing cards are being held in a way that makes it look like the cat is holding them in Scene 1.,text,both,one,both
+79,The cards in both scenes have worn edges.,text,both,both,both
+79,The cards in both scenes have speckles of filth on them.,text,one,both,both
+79,The background of both scenes is out of focus.,text,both,both,both
+79,Both images feature a cat.,image,one,one,one
+79,The cat is positioned on top of a deck of cards in both images.,image,one,both,one
+79,The cat is wearing a white shirt in both images.,image,unknown,both,one
+79,The cat's eyes are open in both images.,image,one,both,both
+79,The cat's ears are visible in both images.,image,one,both,both
+79,Both scenes involve playing cards.,both,both,both,both
+79,The cards are held in a way that makes it look like the cat is holding them in Scene 1.,both,both,both,both
+79,The cards are being held by a human in Scene 2.,both,both,both,both
+79,The cards are in a close-up view in both scenes.,both,both,both,both
+79,The cards have worn edges and speckles of filth on them in Scene 2.,both,both,both,both

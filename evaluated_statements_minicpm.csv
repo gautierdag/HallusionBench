@@ -5,7 +5,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 0,"Both sculptures have eyes with sclera, a blue colored iris, and black pupils.",text,one,both,one
 0,Both sculptures have a green colored cap with orange lines on the top.,text,one,one,one
 0,The five similarities between the two side-by-side images are:,image,one,both,one
-0,,image,one,both,one
 0,Both images feature a statue of a purple alien-like creature.,image,one,both,one
 0,The creature is depicted playing a guitar in both images.,image,one,both,one
 0,Both statues are placed on a yellow taco-shaped base.,image,one,one,one
@@ -38,7 +37,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 2,Both scenes include plants and vegetation in the background.,text,both,both,both
 2,Both scenes have a slightly blurry view.,text,one,both,one
 2,The similarities between the two images are as follows:,image,both,both,one
-2,,image,one,both,one
 2,Both images feature a frog as the main subject.,image,one,one,one
 2,The frog is positioned on a concrete surface in both images.,image,one,both,one
 2,"The background of both images includes green foliage, suggesting an outdoor setting.",image,both,both,both
@@ -55,7 +53,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 3,Both scenes have reflections of light on the aquarium glass.,text,one,one,one
 3,Both scenes have a dark or blue hue to the water.,text,one,both,both
 3,The similarities between the two side-by-side images are as follows:,image,both,both,both
-3,,image,both,both,one
 3,Both images depict marine life in an aquatic environment.,image,both,both,both
 3,The presence of fish is a common element in both images.,image,both,both,both
 3,"The color scheme is predominantly blue, which is characteristic of underwater scenes.",image,both,both,both
@@ -72,7 +69,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 4,Both scenes have a railing (staircase) and a platform (statue).,text,one,one,one
 4,Both scenes have some form of plant life (flags and plant in pot).,text,both,both,both
 4,The similarities between the two images are as follows:,image,one,both,one
-4,,image,one,both,one
 4,Both images feature a statue of a knight in armor.,image,one,one,one
 4,The knight is standing upright and appears to be holding a sword.,image,one,one,one
 4,The statue is placed on a stand or pedestal.,image,one,one,both
@@ -89,7 +85,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 5,Both scenes have a sky visible between the tree tops.,text,one,one,both
 5,Both scenes have a pole supporting the sign.,text,one,both,one
 5,The similarities between the two images are as follows:,image,one,both,one
-5,,image,one,both,one
 5,Both images feature a stop sign prominently in the foreground.,image,one,one,one
 5,There is a yield sign in the left image that is not present in the right image.,image,one,one,one
 5,Both images show a tree near the stop sign.,image,one,both,one
@@ -106,7 +101,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 6,There are small objects (sticks or pebbles) scattered throughout the image.,text,both,one,both
 6,Both scenes have a unique texture or pattern on the surface (stained black cement or exposed aggregate concrete).,text,both,one,both
 6,The similarities between the two images are as follows:,image,one,one,one
-6,,image,one,one,one
 6,Both images feature a heart shape.,image,both,one,both
 6,The heart shape is white in both images.,image,one,both,one
 6,The background of both images is a concrete surface with a speckled pattern.,image,one,both,both
@@ -123,7 +117,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 7,Both scenes are taken indoors.,text,both,both,both
 7,Both scenes feature a cat with its tail up.,text,one,one,one
 7,The similarities between the two images are as follows:,image,one,both,one
-7,,image,one,both,one
 7,Both images feature a cat as the main subject.,image,both,both,both
 7,The cat is white with black markings.,image,one,both,both
 7,"In both images, the cat's tail is prominently displayed.",image,one,one,one
@@ -140,7 +133,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 8,Both scenes have a faucet (gold in Scene 1 and silver in Scene 2).,text,both,both,one
 8,The cat is looking to the right in Scene 1 and straight ahead in Scene 2.,text,one,both,one
 8,Similarities between the two side-by-side images include:,image,both,both,both
-8,,image,one,both,both
 8,Both images feature a cat sitting inside a bathtub.,image,both,both,both
 8,The color of the bathtub is white in both images.,image,both,both,both
 8,The cat in both images is predominantly white with black markings.,image,one,both,both
@@ -157,7 +149,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 9,Both scenes have sunlight shining in the distance.,text,one,one,one
 9,"Both scenes have elements of nature, such as leaves and grass.",text,both,both,both
 9,The similarities between the two side-by-side images are as follows:,image,one,both,one
-9,,image,one,one,one
 9,Both images feature a prominent rock formation with striations.,image,one,both,one
 9,There is a staircase leading up to the rock formation in both images.,image,one,both,one
 9,"Trees are present in both images, framing the rock and staircase.",image,both,both,both
@@ -174,7 +165,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 10,Both scenes have a water body in the background.,text,one,one,one
 10,Both scenes have a sky covering the top half of the frame.,text,both,both,both
 10,The similarities between the two side-by-side images are as follows:,image,one,both,one
-10,,image,one,one,one
 10,Both images feature American flags prominently displayed.,image,both,both,both
 10,"The flags are attached to flagpoles, which are visible in both images.",image,both,both,both
 10,The background of both images includes a city skyline at twilight or night.,image,one,both,one
@@ -191,7 +181,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 11,The sky is gray and covered in clouds in both scenes.,text,both,both,both
 11,Both scenes have a fence surrounding the area where the car is parked.,text,one,both,both
 11,The similarities between the two side-by-side images are as follows:,image,one,both,both
-11,,image,one,both,both
 11,Both images feature a blue BMW 4 Series Gran Coupe.,image,both,both,both
 11,"The car is parked in the same location, indicated by the consistent background elements such as the chain-link fence and the water tower.",image,one,both,one
 11,"The lighting conditions appear to be the same in both images, suggesting they were taken at the same time or under similar weather conditions.",image,one,both,both
@@ -208,7 +197,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 12,Both scenes have small depressions or indentations on the stone or cliff.,text,one,one,one
 12,Both scenes take place during the daytime.,text,one,one,one
 12,Similarities between the two images are as follows:,image,one,one,one
-12,,image,one,one,one
 12,Both images depict rock surfaces.,image,both,both,both
 12,The color palette of both images includes shades of red and gray.,image,one,both,both
 12,The textures in both images are rough and uneven.,image,both,both,both
@@ -225,7 +213,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 13,Both scenes have shadows cast by the light source.,text,one,both,one
 13,"Both scenes have a mix of colors on the walls, such as tan, brown, and gray.",text,both,both,both
 13,The similarities between the two images are as follows:,image,both,both,both
-13,,image,one,one,both
 13,Both images depict an underground cave environment.,image,both,both,both
 13,The presence of rock formations and stalactites is a common feature in both images.,image,one,both,one
 13,Artificial lighting is used in both images to illuminate the cave's interior.,image,both,both,both
@@ -242,7 +229,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 14,Both scenes have a red or white line in front of the parked cars.,text,one,one,both
 14,Both scenes take place outdoors.,text,both,both,both
 14,The similarities between the two images are as follows:,image,one,both,both
-14,,image,one,one,one
 14,Both images feature luxury sports cars.,image,one,both,both
 14,The cars are parked in a parking lot.,image,both,both,both
 14,There is a clear sky with some clouds in both images.,image,one,both,both
@@ -259,7 +245,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 15,Both scenes have a table.,text,one,both,one
 15,Both scenes have trees visible through the windows.,text,both,one,both
 15,The similarities between the two side-by-side images are as follows:,image,one,both,one
-15,,image,one,both,one
 15,Both images feature a large window with a view of a city and mountains in the background.,image,one,both,one
 15,Each image includes a pair of armchairs with a similar design and color scheme.,image,one,both,one
 15,There is a small table between the armchairs in both images.,image,one,one,one
@@ -276,7 +261,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 16,Both scenes have elements that are not in focus (cushions in Scene 1 and off-white concrete wall in Scene 2).,text,one,one,one
 16,"Both scenes have a mix of colors and textures (dark brown and green Anole lizard on rattan furniture in Scene 1, and gold metallic vase on off-white concrete shelf in Scene 2).",text,both,one,both
 16,The similarities between the two images are as follows:,image,one,one,one
-16,,image,one,one,one
 16,Both images feature a vase as the central object.,image,one,one,one
 16,The vase in both images has a similar design and color.,image,one,both,one
 16,"The background of both images is blurred, focusing attention on the vase.",image,one,both,one
@@ -293,7 +277,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 17,Both scenes have patches of grass and dirt.,text,both,both,both
 17,Both scenes are well-lit and take place during the daytime.,text,both,both,both
 17,The similarities between the two side-by-side images are as follows:,image,one,both,one
-17,,image,one,one,one
 17,Both images show a pile of bricks and concrete blocks.,image,one,one,one
 17,The bricks and blocks are scattered on the ground.,image,one,both,one
 17,There is a wooden fence in the background of both images.,image,one,one,one
@@ -310,7 +293,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 18,Both scenes have a sky visible in the background.,text,both,both,both
 18,Both scenes have a sense of natural beauty and tranquility.,text,both,both,both
 18,The similarities between the two side-by-side images are as follows:,image,one,both,both
-18,,image,one,one,both
 18,Both images feature a tree with white blossoms.,image,one,both,one
 18,The trees are situated in a grassy area.,image,both,both,both
 18,There is a wooden fence in both images.,image,one,one,one
@@ -342,7 +324,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 20,Both artworks are located in the middle of the wall.,text,one,one,one
 20,Both scenes have some form of grout visible between the tiles.,text,one,both,both
 20,The similarities between the two images are as follows:,image,both,one,both
-20,,image,one,one,one
 20,Both images feature a mosaic artwork on a tiled wall.,image,both,both,both
 20,"The artwork in both images has a similar color scheme, predominantly featuring shades of brown, orange, and yellow.",image,one,both,both
 20,Both mosaics depict a spiral or circular pattern.,image,one,both,one
@@ -359,7 +340,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 21,Both scenes have elements related to a sign or display.,text,one,both,both
 21,Both scenes have a sense of rustic or country aesthetic.,text,both,both,both
 21,The similarities between the two images are as follows:,image,one,both,one
-21,,image,one,one,both
 21,"Both images feature a sign with the word ""WELCOME"" prominently displayed.",image,one,one,one
 21,"The signs are mounted on a wooden wall, which serves as a common background for both images.",image,one,both,both
 21,"Both signs have a rustic, weathered appearance, suggesting they are made of metal and have been exposed to the elements.",image,one,both,one
@@ -376,7 +356,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 22,Both scenes have buildings in the background.,text,both,both,both
 22,Both scenes have a clear sky at the top of the view.,text,one,both,both
 22,Similarities between the two side-by-side images include:,image,one,both,both
-22,,image,one,both,one
 22,Both images feature a parking lot setting.,image,both,both,both
 22,Each image has two cars parked side by side.,image,both,both,both
 22,"The cars in both images are of different colors: one blue and one red in the left image, and one black and one red in the right image.",image,one,both,both
@@ -408,7 +387,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 24,Both scenes have a sidewalk or curb in them.,text,both,both,both
 24,Both scenes have objects on the ground in them.,text,both,both,both
 24,The similarities between the two side-by-side images are as follows:,image,one,both,one
-24,,image,one,both,one
 24,Both images feature a pair of wooden chairs with metal frames.,image,one,both,one
 24,The chairs are placed on a concrete sidewalk.,image,one,both,one
 24,There is a red bucket on one of the chairs in both images.,image,unknown,one,one
@@ -425,7 +403,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 25,Both scenes have tall bushy green trees rooted into the grass field.,text,one,one,one
 25,Both scenes have a sky with white clouds.,text,both,both,both
 25,The similarities between the two side-by-side images are as follows:,image,both,one,both
-25,,image,both,one,both
 25,Both images feature a train on railroad tracks.,image,both,both,both
 25,The train in both images is predominantly black.,image,one,both,one
 25,The sky in both images is clear and blue.,image,both,both,both
@@ -442,7 +419,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 26,Both scenes include a gray sofa or cushion as part of the setting.,text,both,both,both
 26,"Both scenes involve the cats engaging in some form of interaction, whether it be fighting or playing.",text,both,both,both
 26,The similarities between the two side-by-side images are as follows:,image,both,both,both
-26,,image,one,both,both
 26,Both images feature two cats interacting with each other.,image,both,both,both
 26,"In both images, the cats are positioned on a piece of furniture, which appears to be a couch or a similar type of seating.",image,one,both,both
 26,The background of both images is a room with a similar color scheme and decor.,image,one,both,both
@@ -459,7 +435,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 27,Both scenes have a light fixture.,text,both,both,both
 27,Both scenes have a light bulb.,text,both,both,both
 27,The similarities between the two side-by-side images are as follows:,image,one,both,one
-27,,image,one,both,one
 27,Both images feature a ceiling-mounted light fixture.,image,one,both,one
 27,"The light fixtures have a similar design, with frosted glass covers.",image,one,both,one
 27,"Both images show the light fixtures turned on, emitting a warm glow.",image,one,one,one
@@ -476,7 +451,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 28,Both boats are situated on a body of dark water.,text,both,both,both
 28,Both scenes include tall trees with dark green leaves in the background.,text,both,both,both
 28,The similarities between the two side-by-side images are as follows:,image,both,both,both
-28,,image,both,both,both
 28,Both images feature a white yacht with a similar design and structure.,image,one,both,both
 28,The yachts are docked at a marina with calm water reflecting their image.,image,both,both,both
 28,"The sky in both images has a similar color palette, predominantly blue with scattered clouds.",image,both,both,both
@@ -493,7 +467,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 29,Both scenes have some form of signage indicating directions or warnings.,text,both,both,both
 29,"Both scenes have a mix of natural elements (mulch, rocks, trees) and man-made elements (signs, houses, concrete road).",text,both,both,both
 29,The similarities between the two images are as follows:,image,one,both,one
-29,,image,one,unknown,one
 29,"Both images feature a sign indicating ""EXIT Only"" with an arrow pointing to the right.",image,one,both,one
 29,"Both signs have the additional instruction ""Do Not Enter"" written below the ""EXIT Only"" text.",image,one,one,one
 29,The background of both images shows a similar outdoor setting with grass and a curb.,image,one,both,one
@@ -510,7 +483,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 30,Both scenes have tall buildings in the background.,text,both,both,both
 30,Both scenes have a sky visible in the background.,text,both,both,both
 30,The similarities between the two images are as follows:,image,one,both,one
-30,,image,one,one,one
 30,"Both images feature a sign with the word ""BOOGER"" prominently displayed.",image,one,both,one
 30,"The sign is situated above a body of water, which is visible in both images.",image,one,both,one
 30,The background of both images includes a city skyline with tall buildings.,image,one,both,both
@@ -558,7 +530,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 33,"Both scenes have elements of nature, such as trees.",text,both,both,both
 33,"Both scenes have elements of light, with rays of light in Scene 1 and lens flares in Scene 2.",text,both,one,both
 33,The similarities between the two side-by-side images are as follows:,image,one,both,one
-33,,image,one,both,one
 33,Both images feature a tennis racket as the main subject.,image,one,one,one
 33,The tennis racket is positioned against a clear blue sky in both images.,image,one,both,one
 33,"The sun is visible in both images, creating a lens flare effect.",image,one,both,both
@@ -575,13 +546,11 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 34,Both scenes have some form of pattern or design on the walls.,text,both,both,both
 34,"Both scenes have a sense of age and wear, as indicated by the dirty and old appearance of the walls and floors.",text,both,both,both
 34,Similarities between the two side-by-side images include:,image,one,both,both
-34,,image,one,one,one
 34,Both images feature graffiti art as the main subject.,image,one,both,both
 34,"The artwork in both images is monochromatic, using shades of gray and black.",image,one,both,one
 34,"Both images depict human faces, albeit stylized and abstracted.",image,one,one,one
 34,"The background of both images is a concrete wall, which is a common surface for graffiti.",image,both,both,both
 34,The overall aesthetic of both images is urban and street art-oriented.,image,both,both,both
-34,,image,one,one,one
 34,"These similarities highlight the common themes and techniques found in street art, such as the use of public spaces as canvases and the exploration of human features through abstract forms.",image,one,both,one
 34,Both scenes feature graffiti art on walls.,both,both,both,both
 34,Each scene includes a variety of colors used in the artwork.,both,both,both,both
@@ -594,7 +563,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 35,There are darker clouds on the left and right sides of the image in both scenes.,text,both,one,both
 35,Both scenes include birds flying in the sky.,text,one,one,one
 35,The similarities between the two images are as follows:,image,both,both,both
-35,,image,both,one,both
 35,Both images depict a sky filled with clouds.,image,both,both,both
 35,"The predominant color in both images is blue, representing the sky.",image,one,both,both
 35,There is a presence of white clouds in both images.,image,both,both,both
@@ -611,7 +579,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 36,Both scenes have a window below each poster or banner.,text,one,one,both
 36,Both scenes are viewed from an eye-level perspective.,text,one,one,both
 36,Similarities between the two side-by-side images are as follows:,image,one,both,one
-36,,image,one,both,one
 36,Each image features a single animal in a natural setting.,image,one,one,one
 36,"The animals are depicted in black and white, which gives a timeless and classic feel to the images.",image,one,both,both
 36,The animals are positioned in a way that suggests movement or interaction with their environment.,image,one,both,one
@@ -628,7 +595,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 37,Both scenes have green leaves or stems associated with the flowers.,text,both,both,both
 37,Both scenes have a blurry background with trees.,text,both,one,both
 37,The similarities between the two images are as follows:,image,both,both,both
-37,,image,one,both,both
 37,Both images feature a butterfly.,image,both,both,both
 37,The butterfly in each image is perched on a flower.,image,both,both,both
 37,The flowers in both images are orange in color.,image,one,both,one
@@ -645,7 +611,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 38,Both scenes have cars traveling on roads or bridges.,text,one,one,one
 38,"Both scenes have a sense of height and perspective, with one being a long shot and the other a high-rise view.",text,both,both,both
 38,The similarities between the two images are as follows:,image,both,both,both
-38,,image,one,one,both
 38,Both images capture a city skyline with a mix of modern high-rise buildings.,image,both,both,both
 38,The presence of a river or waterway is a common element in both pictures.,image,one,both,both
 38,"The sky is a significant feature in both images, showing a transition from daylight to sunset.",image,one,both,both
@@ -662,7 +627,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 39,Both scenes have a forested area in the background.,text,one,both,both
 39,Both scenes have a high-angle or front view of the palm trees.,text,one,one,one
 39,The similarities between the two images are as follows:,image,both,both,both
-39,,image,both,one,both
 39,Both images feature palm trees as the main subject.,image,both,both,both
 39,"The predominant color in both images is green, indicating the presence of foliage.",image,both,both,both
 39,"The lighting in both images suggests a natural, outdoor setting with sunlight filtering through the canopy.",image,both,both,both
@@ -679,7 +643,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 40,Both scenes have a white light fixture or shade in the center of the fan.,text,one,one,both
 40,Both scenes show a shadow on the ceiling from the blades of the fan.,text,one,one,one
 40,The similarities between the two side-by-side images are as follows:,image,both,both,both
-40,,image,both,both,both
 40,Both images feature a ceiling fan with four blades.,image,one,both,one
 40,The color of the ceiling fan is black in both images.,image,both,both,both
 40,The ceiling fan is mounted on a white ceiling in both images.,image,one,both,both
@@ -712,7 +675,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 42,Both scenes have trees in the background.,text,both,both,both
 42,Both scenes have shadows cast by the signs.,text,both,both,both
 42,The similarities between the two side-by-side images are as follows:,image,one,both,both
-42,,image,one,both,both
 42,"Both images feature a warning sign that reads ""CAUTION WET ROCKS ARE SLICK.""",image,one,one,one
 42,The sign is mounted on a wooden structure with two posts.,image,one,both,both
 42,The background of both images shows a natural setting with trees and a body of water.,image,both,both,both
@@ -729,7 +691,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 43,Both scenes have buildings in the background (tall commercial buildings for Olivia the Pig and a cement building to the left and a brown building to the right for the frog).,text,both,both,both
 43,Both scenes have a cloudy sky (daylight sky across the top of the frame for Olivia the Pig).,text,one,one,one
 43,The similarities between the two images are as follows:,image,one,both,one
-43,,image,one,one,one
 43,Both images feature a large inflatable or balloon character.,image,one,one,one
 43,The character in both images is green and has a cartoonish appearance.,image,one,both,both
 43,"Both characters have a similar facial expression, with wide eyes and a smiling mouth.",image,one,one,one
@@ -746,7 +707,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 44,"Both vehicles are parked or positioned in a specific way (VW Bomber truck turned to the left and toward the camera, Tiger Shark monster truck facing to the right and slightly toward the viewer).",text,both,one,one
 44,Both scenes include a background element (blue tarp behind the VW Bomber truck and blue plastic on the stadium wall behind the Tiger Shark monster truck).,text,both,one,both
 44,The similarities between the two images are as follows:,image,one,both,one
-44,,image,one,both,one
 44,Both images feature a monster truck with a similar design and color scheme.,image,one,one,one
 44,"The monster truck in both images is performing a wheelie, with the front wheels lifted off the ground.",image,one,one,one
 44,"The background of both images includes a blue tarp with the ""Hot Wheels"" logo.",image,one,both,one
@@ -763,7 +723,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 45,Both scenes include a water bottle with a silver nozzle (royal blue cap in Scene 1 and blue rodent water bottle in Scene 2).,text,one,one,both
 45,Both scenes have a white vent in the background (behind the tank in Scene 1 and behind the cage in Scene 2).,text,one,one,one
 45,Similarities between the two side-by-side images include:,image,one,both,one
-45,,image,one,both,one
 45,Both images feature a rat as the main subject.,image,one,both,one
 45,"The rats are situated in a controlled environment, likely a laboratory setting, indicated by the presence of a water bottle and a ventilation system.",image,both,both,both
 45,Both rats appear to be in a state of rest or sleep.,image,one,one,one
@@ -780,7 +739,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 46,Both scenes have sunlight reflecting off the water.,text,both,one,both
 46,Both scenes have ripples in the water.,text,both,both,both
 46,The similarities between the two images are as follows:,image,both,one,both
-46,,image,both,one,both
 46,Both images depict a body of water.,image,both,both,both
 46,"The color of the water in both images is greenish-brown, indicating the presence of algae or other organic matter.",image,one,one,both
 46,There is a reflection of light on the water surface in both images.,image,both,one,both
@@ -812,7 +770,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 48,Both scenes have some form of text or writing on the sports equipment.,text,one,one,one
 48,Both scenes have a background or setting that is distinct from the sports equipment.,text,one,one,one
 48,The similarities between the two images are as follows:,image,one,both,one
-48,,image,one,both,one
 48,Both images feature basketballs.,image,one,both,one
 48,The basketballs are the central focus of both images.,image,one,both,one
 48,Both images have a sky in the background.,image,one,one,one
@@ -829,7 +786,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 49,Both scenes have a wooden shelf in front of the sign.,text,one,one,one
 49,"Both signs have a jagged or explosive shape behind the letters ""P"" and ""W"".",text,one,both,one
 49,The similarities between the two images are as follows:,image,both,both,one
-49,,image,both,both,both
 49,"Both images feature the word ""POW"" in a comic book style.",image,both,both,both
 49,"The word ""POW"" is the central element in both images.",image,both,both,both
 49,Both images use a combination of red and yellow colors for the text.,image,one,both,one
@@ -846,7 +802,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 50,Both scenes have a sidewalk in the background.,text,one,both,one
 50,Both scenes have trees lining the sides of the sidewalk.,text,one,one,one
 50,The similarities between the two side-by-side images are as follows:,image,both,both,both
-50,,image,one,one,both
 50,Both images feature a red fire hydrant.,image,both,one,both
 50,The fire hydrant is positioned on a grassy area.,image,one,both,one
 50,There is a sidewalk adjacent to the grass where the fire hydrant is located.,image,one,both,both
@@ -878,7 +833,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 52,Both scenes have a human-made element (a statue in Scene 1 and a bench in Scene 2).,text,both,both,both
 52,Both scenes have a natural element (dark colored soil with plants in Scene 1 and small plants surrounding the bench in Scene 2).,text,both,both,both
 52,The similarities between the two side-by-side images are as follows:,image,one,one,one
-52,,image,one,both,one
 52,Both images feature a wooden bench as the central piece of furniture.,image,one,one,one
 52,"The bench is situated in a garden setting, surrounded by various plants and flowers.",image,one,both,both
 52,"Both images show a clear sky, indicating that the photos were taken on a sunny day.",image,one,both,one
@@ -895,7 +849,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 53,"Both scenes have a sense of distance, with a city skyline in Scene 1 and a water tower in Scene 2.",text,both,both,both
 53,"Both scenes have a sense of movement, with wires and antennas in Scene 1 and a black SUV in Scene 2.",text,one,one,one
 53,The similarities between the two images are as follows:,image,one,both,one
-53,,image,one,one,one
 53,Both images feature a water tower as a central element.,image,one,one,one
 53,"The sky is overcast in both images, suggesting a similar weather condition.",image,one,both,one
 53,"There is a road visible in both images, indicating that the location is near a roadway.",image,one,both,both
@@ -927,7 +880,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 55,"Both scenes have some form of lighting (blue light, red lights, stained-glass patterns with lights).",text,both,both,both
 55,"Both scenes have some form of seating (chairs, seats attached to the wall).",text,both,both,both
 55,The similarities between the two images are as follows:,image,one,both,one
-55,,image,one,one,one
 55,Both images depict the interior of a bar.,image,one,both,both
 55,The bar features a variety of liquor bottles displayed on the shelves.,image,both,both,both
 55,There is a piano in the foreground of both images.,image,one,one,one
@@ -944,7 +896,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 56,Both scenes have a bush or shrubbery surrounding the base of the pole or structure.,text,one,one,one
 56,"Both scenes have a distinct color scheme (dark green and maroon/purple in Scene 1, and black and white in Scene 2).",text,one,one,one
 56,The similarities between the two images are as follows:,image,one,one,one
-56,,image,one,one,one
 56,Both images feature a street lamp as the main subject.,image,one,one,both
 56,"The street lamp is depicted against a clear blue sky, indicating that the photos were taken on a day with good weather.",image,both,both,both
 56,"Both images show the street lamp in an upright position, suggesting that it is mounted on a pole.",image,one,one,both
@@ -976,7 +927,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 58,Both scenes have a tree or tree-related element (tree trunk and limbs in Scene 1 and trees barely visible through the top of the fence in Scene 1; no trees mentioned in Scene 2).,text,one,one,one
 58,Both scenes have a ground or surface element (green ground in front of the fence in Scene 1 and green turf-grass in Scene 2).,text,both,both,both
 58,The similarities between the two side-by-side images are as follows:,image,one,both,one
-58,,image,one,unknown,one
 58,"Both images feature the letter ""W"" prominently.",image,one,both,one
 58,"The color scheme of the ""W"" in both images is red and white.",image,one,both,both
 58,"Both images are related to a sports context, indicated by the presence of a tennis court in the bottom image.",image,one,both,one
@@ -993,7 +943,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 59,Both scenes have a vehicle (wagon and plow) with wheels.,text,both,both,both
 59,Both scenes have shadows cast by the trees and vehicles.,text,one,both,both
 59,The similarities between the two images are as follows:,image,one,one,one
-59,,image,one,one,one
 59,Both images depict a rural setting with open fields and trees.,image,both,both,both
 59,"Each image features a piece of farm equipment, suggesting a historical or agricultural context.",image,both,both,both
 59,The presence of shadows indicates that both photos were taken on a sunny day.,image,one,both,both
@@ -1010,7 +959,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 60,Both scenes have some form of shadow or drop shadow on the text.,text,one,one,one
 60,Both scenes have a bright sunlight reflecting on the hard surfaces.,text,one,one,one
 60,The similarities between the two images are as follows:,image,one,both,one
-60,,image,one,both,one
 60,"Both images feature a sign with the word ""ROAD"" prominently displayed.",image,one,one,one
 60,"The color scheme of the background is consistent in both images, with a light blue wall.",image,one,both,one
 60,There is a brick structure at the bottom of the wall in both images.,image,one,one,one
@@ -1042,7 +990,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 62,Both scenes have small twigs on the sidewalk.,text,one,one,one
 62,Both scenes have faded chalk markings on the concrete.,text,one,both,one
 62,Similarities between the two side-by-side images are as follows:,image,both,both,both
-62,,image,one,one,both
 62,"Both images feature the word ""WAMPIMUK"" written in chalk on a concrete surface.",image,one,both,one
 62,"The chalk used in both images is of a similar color, appearing as a light pastel shade.",image,one,both,one
 62,"The handwriting style of the word ""WAMPIMUK"" is consistent in both images, suggesting they were written by the same person or using the same technique.",image,one,one,one
@@ -1059,7 +1006,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 63,Both structures show signs of wear and rust.,text,both,both,both
 63,"Both scenes include additional elements in the background, such as windows and a power outlet.",text,one,both,one
 63,The similarities between the two images are as follows:,image,one,both,one
-63,,image,one,one,one
 63,Both images feature a wooden cutout of an animal.,image,one,both,one
 63,The animal depicted in both images is a pig.,image,one,both,one
 63,Both cutouts are mounted on a wooden surface.,image,one,one,one
@@ -1076,7 +1022,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 64,Both scenes have additional markings or dirt on the surface.,text,both,one,one
 64,Both scenes have a darker stained area on the wall or surface.,text,one,one,one
 64,The similarities between the two images are as follows:,image,one,one,one
-64,,image,one,one,one
 64,Both images feature a vertical wooden surface.,image,one,both,one
 64,Each image contains carved or written text.,image,one,one,both
 64,The text in both images appears to convey a message or sentiment.,image,one,both,both
@@ -1093,7 +1038,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 65,Both scenes have a dark background (dark gray wooden surface in Scene 1 and white wall in Scene 2).,text,one,one,one
 65,"Both scenes have a specific text or design (thick gray ""LUCKY"" letters in Scene 1 and heart-shaped toilet paper in Scene 2).",text,both,both,both
 65,The similarities between the two side-by-side images are as follows:,image,one,both,one
-65,,image,one,one,one
 65,Both images feature a toilet paper holder mounted on a wall.,image,one,both,one
 65,The toilet paper holder is black in both images.,image,one,both,one
 65,"In both images, there is a roll of toilet paper.",image,one,one,one
@@ -1125,7 +1069,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 67,Both scenes have pink paint pen or paint used in the artwork.,text,both,both,both
 67,Both scenes have additional text or markings on the wooden surface.,text,both,both,both
 67,The similarities between the two side-by-side images are as follows:,image,both,both,one
-67,,image,one,both,one
 67,Both images feature hand-drawn faces on a blue wooden surface.,image,one,both,both
 67,The faces are drawn with pink chalk or paint.,image,one,both,both
 67,Both images contain text in a casual handwriting style.,image,one,both,one
@@ -1142,7 +1085,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 68,Both scenes have a border design (yellow in Scene 1 and white in Scene 2).,text,one,one,one
 68,"Both scenes have some form of text or writing (the word ""Gent"" in Scene 1 and ""07"" in Scene 2).",text,both,both,both
 68,The similarities between the two images are as follows:,image,one,both,one
-68,,image,one,both,one
 68,Both images feature a caricature of a man's face.,image,one,one,one
 68,The caricature in both images is stylized with exaggerated facial features.,image,one,both,both
 68,Both images have a decorative frame around the caricature.,image,one,one,one
@@ -1159,7 +1101,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 69,Both scenes have some form of signage or text (white text on the apple sculpture in Scene 1 and illegible script logo on the building in Scene 2).,text,both,one,both
 69,Both scenes have a sense of movement or activity (the ambulance crossing an intersection in Scene 1 and the minivan on the street in Scene 2).,text,both,one,both
 69,Similarities between the two side-by-side images include:,image,one,one,one
-69,,image,one,one,one
 69,"Both images depict a nighttime setting, as indicated by the dark sky and artificial lighting.",image,both,both,both
 69,"There is an ambulance present in both images, suggesting a response to an emergency situation.",image,one,one,one
 69,"The traffic lights in both images are showing red, indicating that traffic is stopped.",image,one,one,one
@@ -1176,7 +1117,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 70,Both scenes have a dark background.,text,one,one,both
 70,Both signs have a red background.,text,one,both,both
 70,Similarities between the two images include:,image,one,one,one
-70,,image,one,one,both
 70,Both images feature a neon sign.,image,one,one,one
 70,The neon sign in each image is shaped like an arch.,image,one,one,one
 70,"Both signs are illuminated, indicating they are likely part of a business establishment.",image,both,both,both
@@ -1193,7 +1133,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 71,"Both scenes have additional objects or elements in the background, such as the chalice and cards in Scene 1 and the string Edison light bulbs in Scene 2.",text,both,both,one
 71,"Both scenes have a daytime setting, as indicated by the sunlight shining through the entryway in Scene 1 and the overall atmosphere in Scene 2.",text,both,both,one
 71,The similarities between the two images are as follows:,image,one,both,one
-71,,image,one,both,one
 71,"Both images feature a character with a long white beard, which is a common trait associated with Santa Claus.",image,one,one,one
 71,"The character in both images is wearing a blue robe, which is also a typical attire for Santa Claus.",image,one,one,one
 71,"Both images have a magical or whimsical theme, as indicated by the presence of a crystal ball in the left image and the word ""TOYS"" in the right image, which suggests a connection to toys and playfulness.",image,one,both,both
@@ -1225,7 +1164,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 73,Both scenes have a wooden or textured wall as the background.,text,one,both,one
 73,Both scenes have reflections or stains on the light switch board.,text,one,both,one
 73,The similarities between the two side-by-side images are as follows:,image,one,both,one
-73,,image,one,one,one
 73,Both images feature a light switch with a similar design and layout.,image,one,both,one
 73,"Each switch has a label indicating its function: ""LIGHT"" for the left switch and ""TRACK LIGHT"" for the right switch.",image,one,both,both
 73,Both switches are mounted on a wooden frame that is affixed to a wall.,image,one,both,one
@@ -1242,7 +1180,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 74,Both scenes have a sense of depth and perspective (medium-close-up view in Scene 1 and overhead view in Scene 2).,text,both,one,one
 74,Both scenes have unique details (holes drilled around the poster in Scene 1 and divot at the top of the puzzle piece in Scene 2).,text,both,both,one
 74,The similarities between the two images are as follows:,image,one,both,one
-74,,image,one,one,one
 74,Both images feature a capybara as the main subject.,image,one,one,one
 74,"The capybara is depicted in a relaxed posture, seemingly enjoying a leisurely activity.",image,one,unknown,both
 74,"In both images, the capybara is interacting with a book, suggesting a theme of reading or learning.",image,one,one,one
@@ -1259,7 +1196,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 75,Both scenes have a painting of a soccer ball.,text,one,one,one
 75,Both scenes have a painting of a frog.,text,one,one,one
 75,The similarities between the two images are as follows:,image,one,both,one
-75,,image,one,one,one
 75,Both images feature a young boy as the central figure.,image,one,one,one
 75,The boy is depicted wearing a yellow shirt and red shorts in both images.,image,one,both,one
 75,"In both images, the boy is standing upright and appears to be smiling.",image,one,one,one
@@ -1276,7 +1212,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 76,Both scenes have a sky visible in the background.,text,one,both,one
 76,"Both scenes have a sense of depth and perspective, with the statue being viewed from an angled front view and the car being viewed from a high angle looking down.",text,both,one,one
 76,Similarities between the two side-by-side images are as follows:,image,one,one,one
-76,,image,one,one,one
 76,"Both images are taken at night, as indicated by the dark sky and artificial lighting.",image,one,one,one
 76,The presence of palm trees in the background suggests a tropical or subtropical location for both scenes.,image,one,both,one
 76,"Both images feature a man dressed in a red coat, which is a common element in both pictures.",image,one,one,one
@@ -1293,7 +1228,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 77,Both scenes have a floor visible in the image.,text,one,one,one
 77,Both scenes have a sense of indoor setting.,text,both,one,one
 77,Similarities between the two images include:,image,one,one,one
-77,,image,one,one,one
 77,"Both images feature the word ""AVOCADO"" prominently displayed.",image,one,one,one
 77,"The font style of the word ""AVOCADO"" is similar in both images, with a cursive and stylized appearance.",image,one,one,one
 77,Both images have a background that includes a red and white color scheme.,image,one,both,one
@@ -1310,7 +1244,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 78,Both scenes have trees and branches in the background.,text,both,one,one
 78,Both scenes have a mix of illuminated and shadowed elements.,text,both,both,both
 78,Similarities between the two side-by-side images include:,image,one,one,one
-78,,image,one,one,one
 78,Both images feature a traffic light with a red light illuminated.,image,one,one,one
 78,"There is a neon sign with the word ""NOHTARAM"" visible in both images.",image,one,one,one
 78,"The sky in both images appears to be overcast, suggesting similar weather conditions.",image,one,both,both
@@ -1327,7 +1260,6 @@ dataset_idx,statement,generated_with,eval_text,eval_image,eval_both
 79,Both scenes have a focus on the cards being held.,text,one,one,both
 79,Both scenes have a background that is not the main focus of the image.,text,both,both,both
 79,Similarities between the two images are as follows:,image,one,both,one
-79,,image,one,one,one
 79,Both images feature a human hand.,image,one,both,both
 79,The hand in each image is holding cards.,image,one,both,both
 79,The cards in both images are playing cards.,image,both,both,both

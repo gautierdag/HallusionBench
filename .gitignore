@@ -1,6 +1,5 @@
 *.zip
 *.tsv
-*.json
 __pycache__
 apikey.txt
 hallusion_eval_claude3.py
